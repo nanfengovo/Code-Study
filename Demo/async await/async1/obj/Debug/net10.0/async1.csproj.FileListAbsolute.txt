@@ -1,0 +1,15 @@
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\bin\Debug\net10.0\async1.exe
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\bin\Debug\net10.0\async1.deps.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\bin\Debug\net10.0\async1.runtimeconfig.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\bin\Debug\net10.0\async1.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\bin\Debug\net10.0\async1.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\async1.GeneratedMSBuildEditorConfig.editorconfig
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\async1.AssemblyInfoInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\async1.AssemblyInfo.cs
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\async1.csproj.CoreCompileInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\async1.sourcelink.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\async1.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\refint\async1.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\async1.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\async1.genruntimeconfig.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\async1\obj\Debug\net10.0\ref\async1.dll

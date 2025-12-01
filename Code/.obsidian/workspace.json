@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
+                "file": "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/异步编程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blazor"
+              "title": "异步编程"
             }
           }
         ]
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
+                "file": "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/异步编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Blazor 的反向链接列表"
+              "title": "异步编程 的反向链接列表"
             }
           },
           {
@@ -155,15 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/异步编程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "异步编程 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -180,10 +182,14 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "8dfef4abceebe6de",
+  "active": "fb8a5038b9e10cd9",
   "lastOpenFiles": [
-    "后端/C Sharp/ASP.NET Core/Blazor Web App",
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/LINQ.md",
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/异步编程.md",
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
     "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础",
+    "后端/C Sharp/ASP.NET Core/Blazor Web App",
     "后端/C Sharp/ASP.NET Core",
     "后端/C Sharp",
     "欢迎.md",
