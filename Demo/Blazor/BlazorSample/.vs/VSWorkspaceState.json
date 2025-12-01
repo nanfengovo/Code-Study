@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Components",
+    "\\Components\\Pages",
+    "\\wwwroot",
+    "\\wwwroot\\lib",
+    "\\wwwroot\\lib\\bootstrap",
+    "\\wwwroot\\lib\\bootstrap\\dist",
+    "\\wwwroot\\lib\\bootstrap\\dist\\css"
+  ],
+  "SelectedNode": "\\BlazorSample.csproj",
+  "PreviewInSolutionExplorer": false
+}
