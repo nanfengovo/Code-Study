@@ -1,0 +1,15 @@
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\bin\Debug\net10.0\CancellationToken1.exe
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\bin\Debug\net10.0\CancellationToken1.deps.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\bin\Debug\net10.0\CancellationToken1.runtimeconfig.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\bin\Debug\net10.0\CancellationToken1.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\bin\Debug\net10.0\CancellationToken1.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\CancellationToken1.GeneratedMSBuildEditorConfig.editorconfig
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\CancellationToken1.AssemblyInfoInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\CancellationToken1.AssemblyInfo.cs
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\CancellationToken1.csproj.CoreCompileInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\CancellationToken1.sourcelink.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\CancellationToken1.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\refint\CancellationToken1.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\CancellationToken1.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\CancellationToken1.genruntimeconfig.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\CancellationToken1\obj\Debug\net10.0\ref\CancellationToken1.dll

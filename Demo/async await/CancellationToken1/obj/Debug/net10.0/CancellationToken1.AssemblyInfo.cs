@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("async await 原理")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CancellationToken1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+356623df68aec633d289fbdea95a6d287a7c1a92")]
-[assembly: System.Reflection.AssemblyProductAttribute("async await 原理")]
-[assembly: System.Reflection.AssemblyTitleAttribute("async await 原理")]
+[assembly: System.Reflection.AssemblyProductAttribute("CancellationToken1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CancellationToken1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
