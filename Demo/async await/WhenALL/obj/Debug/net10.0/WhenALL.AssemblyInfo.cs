@@ -11,15 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsApp1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WhenALL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adcdcdea9be58255fa738f0749585f5e0a8ea12b")]
-[assembly: System.Reflection.AssemblyProductAttribute("WinFormsApp1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WinFormsApp1")]
+[assembly: System.Reflection.AssemblyProductAttribute("WhenALL")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WhenALL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
-[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

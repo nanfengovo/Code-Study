@@ -1,0 +1,15 @@
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\bin\Debug\net10.0\WhenALL.exe
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\bin\Debug\net10.0\WhenALL.deps.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\bin\Debug\net10.0\WhenALL.runtimeconfig.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\bin\Debug\net10.0\WhenALL.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\bin\Debug\net10.0\WhenALL.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\WhenALL.GeneratedMSBuildEditorConfig.editorconfig
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\WhenALL.AssemblyInfoInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\WhenALL.AssemblyInfo.cs
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\WhenALL.csproj.CoreCompileInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\WhenALL.sourcelink.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\WhenALL.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\refint\WhenALL.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\WhenALL.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\WhenALL.genruntimeconfig.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\WhenALL\obj\Debug\net10.0\ref\WhenALL.dll

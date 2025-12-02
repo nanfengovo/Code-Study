@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CancellationToken1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00fa10e4909883193955e9377fc37f378f49ba76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adcdcdea9be58255fa738f0749585f5e0a8ea12b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CancellationToken1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CancellationToken1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

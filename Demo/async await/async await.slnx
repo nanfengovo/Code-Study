@@ -4,5 +4,6 @@
   <Project Path="async await/async await.csproj" />
   <Project Path="async1/async1.csproj" />
   <Project Path="CancellationToken1/CancellationToken1.csproj" Id="821ce996-ed02-41d4-8f84-2dad57310d07" />
+  <Project Path="WhenALL/WhenALL.csproj" Id="fc031e89-05ba-431c-967b-ebb3122487e4" />
   <Project Path="WinFormsApp1/WinFormsApp1.csproj" />
 </Solution>

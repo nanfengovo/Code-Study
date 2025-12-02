@@ -9,18 +9,8 @@ namespace ASPNETCore_CancellationToken2.Controllers
     {
         public async Task<IActionResult> Index(CancellationToken cancellationToken)
         {
-            try
-            {
-                await Download3Async("https://www.baidu.com", 10000, cancellationToken);
-                return View();
-            }
-            catch (Exception)
-            {
-
-                Debug.WriteLine("下载任务被取消");
-                throw;
-            }
-            
+            await Download3Async("https://www.baidu.com", 10000, cancellationToken);
+            return View();
         }
 
         public IActionResult Privacy()
