@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WhenALL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adcdcdea9be58255fa738f0749585f5e0a8ea12b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5bb9d6f3927c1e4af51249cb6afcd5247c91b1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("WhenALL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WhenALL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
