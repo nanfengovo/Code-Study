@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LINQ1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Linq1-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b025af7580b44946da02057a58dc726fda249390")]
-[assembly: System.Reflection.AssemblyProductAttribute("LINQ1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LINQ1")]
+[assembly: System.Reflection.AssemblyProductAttribute("Linq1-1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Linq1-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
