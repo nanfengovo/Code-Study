@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LINQ 原理 where/1.0.0": {
+        "runtime": {
+          "LINQ 原理 where.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ 原理 where/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
