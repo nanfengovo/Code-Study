@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LINQ 解决面试问题2/1.0.0": {
+        "runtime": {
+          "LINQ 解决面试问题2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LINQ 解决面试问题2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
