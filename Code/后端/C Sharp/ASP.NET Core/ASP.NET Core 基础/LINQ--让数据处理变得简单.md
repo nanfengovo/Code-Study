@@ -174,14 +174,31 @@ namespace LINQ_原理_where
 > 每一个数据都会经过predicate的测试，如果针对一个元素，predicate执行的返回值为true，那么这个元素就会放到返回值中
 > where参数是一个lambda表达式格式的匿名方法，方法的参数e表示当前判断的元素对象。参数的名字不一定非要叫e，不过一般lambda表达式中的变量名长度都不长
 
-## Count 
+## Count  --获取总的数量 （返回int）
 数量
-## Any
+## Any  -- 判断是否有一条（返回bool）
 是否有一条，如果有返回true
 
 ## Count 和Any 判断是否存在
 
 > 使用Any更优，因为count 需要全部遍历，Any找到一条就返回了
 
+## 获取一条数据的方法
+### Single  --有且只有一条满足要求的数据(如果一条都没有或者有多条都会报错)
+### SingleOrDefault --最多只有1条满足要求的数据（多条会报错，0条则返回默认值，默认值是null）
+### First --至少有一条，返回第一条（一条都没有报错）
+### FirstOrDefault --返回第一条或者默认值
+
+
+## 排序
+### Order()  --对数据进行正序排序
+### OrderByDescending() -- 倒序排序
+
+### 多规则排序
+> 可以在Order(),OrderByDescending()后继续写ThenBy()、ThenByDescending(),
+
+## 限制结果集，获取部分数据
+### Skip(n)  --跳过n条数据
+### Take（n） -- 获取n条
 
 
