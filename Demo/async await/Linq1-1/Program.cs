@@ -15,6 +15,7 @@
                           .Where(g => g.Count() > 2)//筛选出现频率高于2次的字母
                           .OrderByDescending(g => g.Count())//按照出现频率从高到低排序
                           .Select(g => new {Char = g.Key,Count = g.Count()});
+            Console.WriteLine(item);
         }
     }
 }
