@@ -201,4 +201,42 @@ namespace LINQ_原理_where
 ### Skip(n)  --跳过n条数据
 ### Take（n） -- 获取n条
 
+## 聚合函数
+Max(),Min(),Average(),Sum(),Count()
 
+## 分组
+### GroupBy() 方法参数是分组条件表达式
+
+## 投影
+> 把集合中的每一项转换为另外一种类型
+
+### Select() 
+
+# LINQ 查询语法
+> 使用Where,OrderBy、Select等扩展方法进行数据查询的写法叫“LINQ方法语法”。还有一种查询语法的写法
+
+# LINQ解决面试问题
+> 面试尽量避免使用正则表达式，LINQ等这些高级的类库
+
+## 找出最大值
+```
+            //最大值
+            int i = 5;
+            int j = 8;
+            int k = 6;
+
+            //LINQ
+            int[] nums = new int[] { i, j, k };
+            var max = nums.Max();
+            Console.WriteLine(max);
+
+            //MAX
+            int max2 = Math.Max(i, (Math.Max(k, j)));
+            Console.WriteLine(max2);
+
+            //三元
+            int max3 = i > j ? (i > k ? i : k) : (j > k ? j : k);
+            Console.WriteLine(max3);
+```
+
+##

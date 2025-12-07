@@ -1,0 +1,15 @@
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\bin\Debug\net10.0\Linq常用扩展方法.exe
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\bin\Debug\net10.0\Linq常用扩展方法.deps.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\bin\Debug\net10.0\Linq常用扩展方法.runtimeconfig.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\bin\Debug\net10.0\Linq常用扩展方法.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\bin\Debug\net10.0\Linq常用扩展方法.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\Linq常用扩展方法.GeneratedMSBuildEditorConfig.editorconfig
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\Linq常用扩展方法.AssemblyInfoInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\Linq常用扩展方法.AssemblyInfo.cs
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\Linq常用扩展方法.csproj.CoreCompileInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\Linq常用扩展方法.sourcelink.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\Linq常用扩展方法.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\refint\Linq常用扩展方法.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\Linq常用扩展方法.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\Linq常用扩展方法.genruntimeconfig.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Linq常用扩展方法\obj\Debug\net10.0\ref\Linq常用扩展方法.dll

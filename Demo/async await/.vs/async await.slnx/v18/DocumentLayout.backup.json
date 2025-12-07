@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAFB6660-70D5-41DC-B1FD-0CC36A323CF5}|LINQ \u539F\u7406 where\\LINQ \u539F\u7406 where.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq \u539F\u7406 where\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAFB6660-70D5-41DC-B1FD-0CC36A323CF5}|LINQ \u539F\u7406 where\\LINQ \u539F\u7406 where.csproj|solutionrelative:linq \u539F\u7406 where\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50193B62-D955-4E96-8D48-71E6071EE60F}|Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50193B62-D955-4E96-8D48-71E6071EE60F}|Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8909C202-D47F-4CA3-AF78-075D30463221}|Linq\u539F\u7406\\Linq\u539F\u7406.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq\u539F\u7406\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8909C202-D47F-4CA3-AF78-075D30463221}|Linq\u539F\u7406\\Linq\u539F\u7406.csproj|solutionrelative:linq\u539F\u7406\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFB6660-70D5-41DC-B1FD-0CC36A323CF5}|LINQ \u539F\u7406 where\\LINQ \u539F\u7406 where.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq \u539F\u7406 where\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAFB6660-70D5-41DC-B1FD-0CC36A323CF5}|LINQ \u539F\u7406 where\\LINQ \u539F\u7406 where.csproj|solutionrelative:linq \u539F\u7406 where\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u539F\u7406\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\u539F\u7406\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u539F\u7406\\Program.cs",
+              "RelativeToolTip": "Linq\u539F\u7406\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T07:25:17.706Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -44,26 +62,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u539F\u7406 where\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ \u539F\u7406 where\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u539F\u7406 where\\Program.cs*",
-              "RelativeToolTip": "LINQ \u539F\u7406 where\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs*",
+              "RelativeToolTip": "Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:00:05.314Z",
+              "WhenOpened": "2025-12-07T08:14:42.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u539F\u7406\\Program.cs",
-              "RelativeDocumentMoniker": "Linq\u539F\u7406\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u539F\u7406\\Program.cs",
-              "RelativeToolTip": "Linq\u539F\u7406\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u539F\u7406 where\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u539F\u7406 where\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u539F\u7406 where\\Program.cs",
+              "RelativeToolTip": "LINQ \u539F\u7406 where\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T07:25:17.706Z",
+              "WhenOpened": "2025-12-07T08:00:05.314Z",
               "EditorCaption": ""
             }
           ]

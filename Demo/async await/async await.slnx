@@ -8,6 +8,7 @@
   <Project Path="Linq1-1/Linq1-1.csproj" Id="877557f7-724a-49fe-9444-55bb75c8373a" />
   <Project Path="LINQ1/LINQ1.csproj" Id="b1ad67f5-c4c9-4132-b03e-5cab1e35940a" />
   <Project Path="Linq原理/Linq原理.csproj" Id="8909c202-d47f-4ca3-af78-075d30463221" />
+  <Project Path="Linq常用扩展方法/Linq常用扩展方法.csproj" Id="50193b62-d955-4e96-8d48-71e6071ee60f" />
   <Project Path="WhenALL/WhenALL.csproj" Id="fc031e89-05ba-431c-967b-ebb3122487e4" />
   <Project Path="WinFormsApp1/WinFormsApp1.csproj" />
 </Solution>
