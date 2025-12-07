@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ASPNETCore CancellationToken2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Linq常用扩展方法")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00ceb2e2470e46bcead382f76e1ad29f66c568dd")]
-[assembly: System.Reflection.AssemblyProductAttribute("ASPNETCore CancellationToken2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ASPNETCore CancellationToken2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Linq常用扩展方法")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Linq常用扩展方法")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

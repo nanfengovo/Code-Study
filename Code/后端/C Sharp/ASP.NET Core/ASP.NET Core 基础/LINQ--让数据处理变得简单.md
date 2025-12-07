@@ -123,4 +123,65 @@ namespace Linq1_1
 ## 委托
 1、委托是可以指向方法的类型，调用委托变量时执行的就是变量指向的方法
 2、.NET 中定义了泛型委托Action（无返回值）和Func(有返回值)，所以一般不用自定义委托类型
-# LINQ 原理
+# LINQ where 原理
+## 自己封装where
+```
+namespace LINQ_原理_where
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //找出大于10的
+            int[] nums = new int[] { 3, 5, 3453, 33, 2, 9, 35 };
+            var res = MyWhere2(nums, a => a >= 10);
+            foreach (var item in res)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+        static IEnumerable<int> MyWhere1(IEnumerable<int> items, Func<int,bool> f)
+        {
+            List<int> result = new List<int>();
+            foreach (int i in items)
+            {
+                if (f(i))
+                {
+                    result.Add(i);
+                }
+            }
+            return result;
+        }
+
+        static IEnumerable<int> MyWhere2(IEnumerable<int> items, Func<int, bool> f)
+        {
+            foreach (int i in items)
+            {
+                if (f(i))
+                {
+                    yield return i;
+                }
+            }
+        }
+    }
+}
+```
+# Linq中常见的扩展方法
+> 实现了IEnumerable 接口的方法都可以用 linq
+
+## Where方法
+> 每一个数据都会经过predicate的测试，如果针对一个元素，predicate执行的返回值为true，那么这个元素就会放到返回值中
+> where参数是一个lambda表达式格式的匿名方法，方法的参数e表示当前判断的元素对象。参数的名字不一定非要叫e，不过一般lambda表达式中的变量名长度都不长
+
+## Count 
+数量
+## Any
+是否有一条，如果有返回true
+
+## Count 和Any 判断是否存在
+
+> 使用Any更优，因为count 需要全部遍历，Any找到一条就返回了
+
+
+
