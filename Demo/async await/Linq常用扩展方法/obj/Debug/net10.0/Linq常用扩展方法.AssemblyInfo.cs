@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Linq常用扩展方法")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a49f978252255f002085789ac3fd506b95f5e0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+950d324dd599df1947bc184c4109d21753472002")]
 [assembly: System.Reflection.AssemblyProductAttribute("Linq常用扩展方法")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Linq常用扩展方法")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37774B90-0FE4-4E40-AE5B-F496F9515B9E}|LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq \u89E3\u51B3\u9762\u8BD5\u9898\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37774B90-0FE4-4E40-AE5B-F496F9515B9E}|LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898.csproj|solutionrelative:linq \u89E3\u51B3\u9762\u8BD5\u9898\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{50193B62-D955-4E96-8D48-71E6071EE60F}|Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50193B62-D955-4E96-8D48-71E6071EE60F}|Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u539F\u7406\\Program.cs",
               "RelativeDocumentMoniker": "Linq\u539F\u7406\\Program.cs",
@@ -62,18 +66,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs",
+              "RelativeDocumentMoniker": "LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs*",
+              "RelativeToolTip": "LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T15:47:45.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
               "RelativeDocumentMoniker": "Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs*",
-              "RelativeToolTip": "Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "RelativeToolTip": "Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-07T08:14:42.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u539F\u7406 where\\Program.cs",
               "RelativeDocumentMoniker": "LINQ \u539F\u7406 where\\Program.cs",

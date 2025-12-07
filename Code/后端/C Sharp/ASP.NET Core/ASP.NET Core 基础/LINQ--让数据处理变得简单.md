@@ -218,7 +218,7 @@ Max(),Min(),Average(),Sum(),Count()
 # LINQ解决面试问题
 > 面试尽量避免使用正则表达式，LINQ等这些高级的类库
 
-## 找出最大值
+## 1、找出最大值
 ```
             //最大值
             int i = 5;
@@ -239,4 +239,17 @@ Max(),Min(),Average(),Sum(),Count()
             Console.WriteLine(max3);
 ```
 
-##
+## 2、有一个用逗号分隔的表示成绩的字符串，如“61，90，100，99，18，22，38，66，80，93” 计算这些成绩的平均分
+```
+            /*有一个用逗号分隔的表示成绩的字符串，如“61,90,100,99,18,22,38,66,80,93” 计算这些成绩的平均分
+             */
+            Console.WriteLine("请输入只有数字的字符串！！！");
+            var str = Console.ReadLine();
+            var str1 = str.Trim().Split(',');
+            var intnum = str1.Select(s => Convert.ToInt32(s));
+            var a = intnum.Average();
+            double avg = str.Trim().Split(',').Select(s => Convert.ToInt32(s)).Average();
+            Console.WriteLine(avg);
+```
+
+## 3、统计一个字符串中每个字母出现的频率（忽略大小写），然后按从高到低的顺序输出出现频率高于两次的单词和其出现的频率
