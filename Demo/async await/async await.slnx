@@ -4,6 +4,7 @@
   <Project Path="async await/async await.csproj" />
   <Project Path="async1/async1.csproj" />
   <Project Path="CancellationToken1/CancellationToken1.csproj" Id="821ce996-ed02-41d4-8f84-2dad57310d07" />
+  <Project Path="DI1/DI1.csproj" Id="a4887b95-d320-44e5-b03e-0f87c0e1e004" />
   <Project Path="LINQ 原理 where/LINQ 原理 where.csproj" Id="eafb6660-70d5-41dc-b1fd-0cc36a323cf5" />
   <Project Path="LINQ 解决面试问题2/LINQ 解决面试问题2.csproj" Id="24cf4ce3-3f80-49b6-b1bf-08595da2f787" />
   <Project Path="LINQ 解决面试题/LINQ 解决面试题.csproj" Id="37774b90-0fe4-4e40-ae5b-f496f9515b9e" />

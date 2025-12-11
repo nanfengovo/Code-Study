@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "0xG84F8XxGI=",
+  "dgSpecHash": "K7fjKE4Kh3Y=",
   "success": true,
   "projectFilePath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ 解决面试问题2\\LINQ 解决面试问题2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
