@@ -75,3 +75,32 @@ namespace DI1
 
 ## 根据类型来获取和注册服务
 可以分别指定服务类型（service type）和实现类型（implementation type） 这两者可能相同也可能不同。服务类型
+
+# 生命周期
+> 瞬时（Transient），范围(scoped),单例（Singleton）
+
+使用ReferenceEquals(t,t1)来判断是不是同一个对象
+```
+            ServiceCollection service = new ServiceCollection();
+            service.AddTransient<ServiceA>();
+            using (ServiceProvider sp = service.BuildServiceProvider())
+            {
+                var t = sp.GetService<ServiceA>();
+                t.Serve();
+
+                var t1 = sp.GetService<ServiceA>();
+                Console.WriteLine(ReferenceEquals(t,t1));
+            }
+            
+```
+
+## Scoped 范围可以设定
+using的范围就是scoped的范围
+
+不要在长生命周期中引用短生命周期的对象
+
+## IServiceProvider的服务定位器方法：
+* T GetService () 如果获取不到对象，则返回null
+* *GetRequiredService（） 如果获取不到则抛异常
+
+# 

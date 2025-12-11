@@ -17,11 +17,14 @@ namespace DI1
             //_service.Serve();
 
             ServiceCollection service = new ServiceCollection();
-            service.AddTransient<ServiceA>();
+            service.AddScoped<ServiceA>();
             using (ServiceProvider sp = service.BuildServiceProvider())
             {
                 var t = sp.GetService<ServiceA>();
                 t.Serve();
+
+                var t1 = sp.GetService<ServiceA>();
+                Console.WriteLine(ReferenceEquals(t,t1));
             }
                 
             
