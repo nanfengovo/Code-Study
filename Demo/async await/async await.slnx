@@ -1,17 +1,18 @@
 <Solution>
-  <Project Path="ASPNETCore CancellationToken2/ASPNETCore CancellationToken2.csproj" Id="14bf798a-b930-447a-9c8b-9760a31c145b" />
-  <Project Path="async await 原理/async await 原理.csproj" />
-  <Project Path="async await/async await.csproj" />
-  <Project Path="async1/async1.csproj" />
-  <Project Path="CancellationToken1/CancellationToken1.csproj" Id="821ce996-ed02-41d4-8f84-2dad57310d07" />
-  <Project Path="DI1/DI1.csproj" Id="a4887b95-d320-44e5-b03e-0f87c0e1e004" />
-  <Project Path="LINQ 原理 where/LINQ 原理 where.csproj" Id="eafb6660-70d5-41dc-b1fd-0cc36a323cf5" />
-  <Project Path="LINQ 解决面试问题2/LINQ 解决面试问题2.csproj" Id="24cf4ce3-3f80-49b6-b1bf-08595da2f787" />
-  <Project Path="LINQ 解决面试题/LINQ 解决面试题.csproj" Id="37774b90-0fe4-4e40-ae5b-f496f9515b9e" />
-  <Project Path="Linq1-1/Linq1-1.csproj" Id="877557f7-724a-49fe-9444-55bb75c8373a" />
-  <Project Path="LINQ1/LINQ1.csproj" Id="b1ad67f5-c4c9-4132-b03e-5cab1e35940a" />
-  <Project Path="Linq原理/Linq原理.csproj" Id="8909c202-d47f-4ca3-af78-075d30463221" />
-  <Project Path="Linq常用扩展方法/Linq常用扩展方法.csproj" Id="50193b62-d955-4e96-8d48-71e6071ee60f" />
-  <Project Path="WhenALL/WhenALL.csproj" Id="fc031e89-05ba-431c-967b-ebb3122487e4" />
-  <Project Path="WinFormsApp1/WinFormsApp1.csproj" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/ASPNETCore CancellationToken2/ASPNETCore CancellationToken2.csproj" Id="14bf798a-b930-447a-9c8b-9760a31c145b" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/async await 原理/async await 原理.csproj" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/async await/async await.csproj" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/async1/async1.csproj" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/CancellationToken1/CancellationToken1.csproj" Id="821ce996-ed02-41d4-8f84-2dad57310d07" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/DI1/DI1.csproj" Id="a4887b95-d320-44e5-b03e-0f87c0e1e004" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/DI传染/DI传染.csproj" Id="0b93d1ab-0b1c-471b-8783-2c1d26d1b4d5" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/LINQ 原理 where/LINQ 原理 where.csproj" Id="eafb6660-70d5-41dc-b1fd-0cc36a323cf5" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/LINQ 解决面试问题2/LINQ 解决面试问题2.csproj" Id="24cf4ce3-3f80-49b6-b1bf-08595da2f787" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/LINQ 解决面试题/LINQ 解决面试题.csproj" Id="37774b90-0fe4-4e40-ae5b-f496f9515b9e" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/Linq1-1/Linq1-1.csproj" Id="877557f7-724a-49fe-9444-55bb75c8373a" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/LINQ1/LINQ1.csproj" Id="b1ad67f5-c4c9-4132-b03e-5cab1e35940a" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/Linq原理/Linq原理.csproj" Id="8909c202-d47f-4ca3-af78-075d30463221" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/Linq常用扩展方法/Linq常用扩展方法.csproj" Id="50193b62-d955-4e96-8d48-71e6071ee60f" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/WhenALL/WhenALL.csproj" Id="fc031e89-05ba-431c-967b-ebb3122487e4" />
+  <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/WinFormsApp1/WinFormsApp1.csproj" />
 </Solution>
