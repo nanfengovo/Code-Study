@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "BvfVObiT2nM=",
+  "dgSpecHash": "/hi+iLey4Nk=",
   "success": true,
   "projectFilePath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\ConfigServices.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

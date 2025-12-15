@@ -35,6 +35,9 @@
         }
       },
       "ConfigServices/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "10.0.1"
+        },
         "runtime": {
           "ConfigServices.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -43,6 +46,9 @@
         }
       },
       "LogServices/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "10.0.1"
+        },
         "runtime": {
           "LogServices.dll": {
             "assemblyVersion": "1.0.0.0",

@@ -10,3 +10,4 @@ E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\LogServices\obj\Debug\ne
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\LogServices\obj\Debug\net10.0\refint\LogServices.dll
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\LogServices\obj\Debug\net10.0\LogServices.pdb
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\LogServices\obj\Debug\net10.0\ref\LogServices.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\LogServices\obj\Debug\net10.0\LogServices.csproj.AssemblyReference.cache

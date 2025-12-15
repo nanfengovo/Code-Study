@@ -7,44 +7,48 @@
       "RelativeMoniker": "D:0:0:{12C4D921-14FA-4176-9D78-FB507FF33A89}|ConsoleAppMailSender\\ConsoleAppMailSender.csproj|solutionrelative:consoleappmailsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\inifileconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\inifileconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\inifileconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\inifileconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\mail.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\mail.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{821CE996-ED02-41D4-8F84-2DAD57310D07}|CancellationToken1\\CancellationToken1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\cancellationtoken1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{821CE996-ED02-41D4-8F84-2DAD57310D07}|CancellationToken1\\CancellationToken1.csproj|solutionrelative:cancellationtoken1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\iconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\iconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\logservices\\consolelogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|solutionrelative:logservices\\consolelogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\logservices\\consolelogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|solutionrelative:logservices\\consolelogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\logservices\\ilogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|solutionrelative:logservices\\ilogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{821CE996-ED02-41D4-8F84-2DAD57310D07}|CancellationToken1\\CancellationToken1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\cancellationtoken1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821CE996-ED02-41D4-8F84-2DAD57310D07}|CancellationToken1\\CancellationToken1.csproj|solutionrelative:cancellationtoken1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\iconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\iconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\logservices\\consolelogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|solutionrelative:logservices\\consolelogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,41 +110,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "mail.ini",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\mail.ini",
-              "RelativeDocumentMoniker": "ConfigServices\\mail.ini",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\mail.ini",
-              "RelativeToolTip": "ConfigServices\\mail.ini",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
-              "WhenOpened": "2025-12-15T13:37:12.924Z",
+              "DocumentIndex": 1,
+              "Title": "IniFileConfigExtensions.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IniFileConfigExtensions.cs",
+              "RelativeDocumentMoniker": "ConfigServices\\IniFileConfigExtensions.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IniFileConfigExtensions.cs*",
+              "RelativeToolTip": "ConfigServices\\IniFileConfigExtensions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:19:47.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IniFileConfigService.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IniFileConfigService.cs",
               "RelativeDocumentMoniker": "ConfigServices\\IniFileConfigService.cs",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IniFileConfigService.cs",
               "RelativeToolTip": "ConfigServices\\IniFileConfigService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T13:35:19.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConfigService.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\ConfigService.cs",
-              "RelativeDocumentMoniker": "ConfigServices\\ConfigService.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\ConfigService.cs",
-              "RelativeToolTip": "ConfigServices\\ConfigService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:01:15.008Z",
               "EditorCaption": ""
             },
             {
@@ -151,40 +142,27 @@
               "RelativeDocumentMoniker": "ConsoleAppMailSender\\Program.cs",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConsoleAppMailSender\\Program.cs*",
               "RelativeToolTip": "ConsoleAppMailSender\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T12:17:11.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConsoleLogProvider.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogProvider.cs",
-              "RelativeDocumentMoniker": "LogServices\\ConsoleLogProvider.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogProvider.cs",
-              "RelativeToolTip": "LogServices\\ConsoleLogProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:50:20.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\CancellationToken1\\Program.cs",
               "RelativeDocumentMoniker": "CancellationToken1\\Program.cs",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\CancellationToken1\\Program.cs",
               "RelativeToolTip": "CancellationToken1\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T13:05:23.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IMailService.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\IMailService.cs",
               "RelativeDocumentMoniker": "MailServices\\IMailService.cs",
@@ -197,20 +175,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MailService.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\MailService.cs",
               "RelativeDocumentMoniker": "MailServices\\MailService.cs",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\MailService.cs",
               "RelativeToolTip": "MailServices\\MailService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBcAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T12:58:28.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
+              "Title": "ConsoleLogExtensions.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogExtensions.cs",
+              "RelativeDocumentMoniker": "LogServices\\ConsoleLogExtensions.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogExtensions.cs",
+              "RelativeToolTip": "LogServices\\ConsoleLogExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T14:09:29.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ILogProvider.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ILogProvider.cs",
               "RelativeDocumentMoniker": "LogServices\\ILogProvider.cs",
@@ -223,7 +214,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "ConfigService.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\ConfigService.cs",
+              "RelativeDocumentMoniker": "ConfigServices\\ConfigService.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\ConfigService.cs",
+              "RelativeToolTip": "ConfigServices\\ConfigService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T13:01:15.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsoleLogProvider.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogProvider.cs",
+              "RelativeDocumentMoniker": "LogServices\\ConsoleLogProvider.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogProvider.cs",
+              "RelativeToolTip": "LogServices\\ConsoleLogProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T12:50:20.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IConfigService.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IConfigService.cs",
               "RelativeDocumentMoniker": "ConfigServices\\IConfigService.cs",
@@ -236,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\Class1.cs",
               "RelativeDocumentMoniker": "ConfigServices\\Class1.cs",
@@ -249,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\Class1.cs",
               "RelativeDocumentMoniker": "MailServices\\Class1.cs",
@@ -262,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\DI\u4F20\u67D3\\Program.cs",
               "RelativeDocumentMoniker": "DI\u4F20\u67D3\\Program.cs",
@@ -275,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\DI1\\Program.cs",
               "RelativeDocumentMoniker": "DI1\\Program.cs",
@@ -287,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\Program.cs",
               "RelativeDocumentMoniker": "LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\Program.cs",
@@ -300,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs",
               "RelativeDocumentMoniker": "LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs",
@@ -313,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
               "RelativeDocumentMoniker": "Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
@@ -325,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u539F\u7406 where\\Program.cs",
               "RelativeDocumentMoniker": "LINQ \u539F\u7406 where\\Program.cs",
