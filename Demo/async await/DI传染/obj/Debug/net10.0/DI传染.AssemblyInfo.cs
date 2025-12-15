@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DI传染")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f9658cf39d2537ad55eb850cfbba8340157e16b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+815669f5c55378ae4c0cec97fc74b1ca6e4568db")]
 [assembly: System.Reflection.AssemblyProductAttribute("DI传染")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DI传染")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

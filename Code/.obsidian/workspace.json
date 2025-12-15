@@ -185,8 +185,12 @@
   },
   "active": "8dfef4abceebe6de",
   "lastOpenFiles": [
-    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/LINQ--让数据处理变得简单.md",
+    "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/LINQ--让数据处理变得简单.md",
+    "后端/C Sharp/ASP.NET Core/知名类库/Identity/1.1 实现基于角色的访问控制（RBAC）.md",
+    "后端/C Sharp/ASP.NET Core/知名类库/Identity",
+    "后端/C Sharp/ASP.NET Core/知名类库",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/异步编程.md",
     "图片/Pasted image 20251202204749.png",
     "后端/C Sharp/AI+.NET",
@@ -194,13 +198,10 @@
     "前端",
     "后端/算法",
     "图片",
-    "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
     "图片/Pasted image 20251202205214.png",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础",
     "后端/C Sharp/ASP.NET Core/Blazor Web App",
     "后端/C Sharp/ASP.NET Core",
-    "后端/C Sharp",
-    "欢迎.md",
-    "后端"
+    "欢迎.md"
   ]
 }

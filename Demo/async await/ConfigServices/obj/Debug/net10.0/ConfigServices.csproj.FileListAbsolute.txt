@@ -1,0 +1,12 @@
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\bin\Debug\net10.0\ConfigServices.deps.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\bin\Debug\net10.0\ConfigServices.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\bin\Debug\net10.0\ConfigServices.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\ConfigServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\ConfigServices.AssemblyInfoInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\ConfigServices.AssemblyInfo.cs
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\ConfigServices.csproj.CoreCompileInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\ConfigServices.sourcelink.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\ConfigServices.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\refint\ConfigServices.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\ConfigServices.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConfigServices\obj\Debug\net10.0\ref\ConfigServices.dll

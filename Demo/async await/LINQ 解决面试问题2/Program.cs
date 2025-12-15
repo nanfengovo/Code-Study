@@ -37,7 +37,7 @@
             foreach (var kvp in dic)
             {
                 if (kvp.Value > 2) // 筛选：出现次数高于2次
-                {
+                {   
                     // 计算频率：(出现次数 / 总字母数) * 100，保留2位小数
                     double frequency = Math.Round((double)kvp.Value / sum * 100, 2);
                     filteredList.Add((kvp.Key, kvp.Value, frequency));

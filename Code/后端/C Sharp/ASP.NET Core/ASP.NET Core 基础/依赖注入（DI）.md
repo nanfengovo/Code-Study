@@ -112,3 +112,20 @@ using的范围就是scoped的范围
 ## 实现1
 1、创建4个.NET Core类库项目，ConfigServices是配置服务的项目，LogServices是日志服务的项目，MailServices是邮件发送器的项目，然后再建一个.NETCore控制台项目MailServicesConsole来调用MailServices.MailServices项目引用ConfigServices项目和LogServices项目，而MailServicesConsole项目引用MailServices项目
 2、编写类库项目LogServices,创建ILogProvider接口，编写实现类ConsoleLogProvider.编写一个ConsoleLogProviderExtensions定义扩展方法AddConsoleLog,namespace和IServiceCollection一致    
+
+依赖注入的基本使用
+> Install-package Microsoft.Extensions.DependencyInjection
+```
+            ServiceCollection services = new ServiceCollection();
+            services.AddScoped<IConfigService, ConfigService>();
+            services.AddScoped<ILogProvider, ConsoleLogProvider>();
+            services.AddScoped<IMailService, MailService>();
+
+            using (var serviceProvider = services.BuildServiceProvider())
+            {
+                var mail = serviceProvider.GetRequiredService<IMailService>();
+                mail.SendEmail("Hello", "1", "111");
+            }
+
+            Console.Read();
+```
