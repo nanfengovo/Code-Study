@@ -21,7 +21,7 @@ namespace MailServices
 
         public void SendEmail(string title, string to, string body)
         {
-            var ip = _configService.GetValue("Test");
+            var ip = _configService.GetValue("UserName");
             _logProvider.LogInfo($"Preparing to send email to {to} with title {title},{ip}");
             Console.WriteLine($"Sending email to {to} with title {title} and body {body}");
             _logProvider.LogInfo($"Email sent to {to} with title {title}");

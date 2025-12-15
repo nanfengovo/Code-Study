@@ -10,7 +10,8 @@ namespace ConsoleAppMailSender
         static void Main(string[] args)
         {
             ServiceCollection services = new ServiceCollection();
-            services.AddScoped<IConfigService, ConfigService>();
+            //services.AddScoped<IConfigService, ConfigService>();
+            services.AddScoped(typeof(IConfigService),s=>new IniFileConfigService { FilePath = "mail.ini"});
             services.AddScoped<ILogProvider, ConsoleLogProvider>();
             services.AddScoped<IMailService, MailService>();
 

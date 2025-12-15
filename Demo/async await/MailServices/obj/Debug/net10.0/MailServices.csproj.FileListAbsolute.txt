@@ -16,3 +16,4 @@ E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\MailServices\obj\Debug\n
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\MailServices\obj\Debug\net10.0\refint\MailServices.dll
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\MailServices\obj\Debug\net10.0\MailServices.pdb
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\MailServices\obj\Debug\net10.0\ref\MailServices.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\MailServices\bin\Debug\net10.0\mail.ini

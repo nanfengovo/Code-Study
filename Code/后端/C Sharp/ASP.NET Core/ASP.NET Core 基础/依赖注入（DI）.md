@@ -129,3 +129,8 @@ using的范围就是scoped的范围
 
             Console.Read();
 ```
+
+## 实现2
+1、编写配置服务的类库项目ConfigServices.接口IConfigProvider,方法:string GetValue(string name)
+2、环境变量读取配置类EnvVarConfigProvider:Environment.GetEnvironmentVariable(name);编写一个类带扩展方法：AddEnvVarConfig
+3、编写从ini文件中读取配置的类ConfigServices

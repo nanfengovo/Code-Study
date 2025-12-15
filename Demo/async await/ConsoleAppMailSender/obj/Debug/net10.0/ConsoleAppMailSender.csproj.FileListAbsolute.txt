@@ -23,3 +23,4 @@ E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConsoleAppMailSender\obj
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConsoleAppMailSender\obj\Debug\net10.0\ConsoleAppMailSender.pdb
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConsoleAppMailSender\obj\Debug\net10.0\ConsoleAppMailSender.genruntimeconfig.cache
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConsoleAppMailSender\obj\Debug\net10.0\ref\ConsoleAppMailSender.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\ConsoleAppMailSender\bin\Debug\net10.0\mail.ini
