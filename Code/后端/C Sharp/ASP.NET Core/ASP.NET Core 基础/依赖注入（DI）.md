@@ -134,3 +134,68 @@ using的范围就是scoped的范围
 1、编写配置服务的类库项目ConfigServices.接口IConfigProvider,方法:string GetValue(string name)
 2、环境变量读取配置类EnvVarConfigProvider:Environment.GetEnvironmentVariable(name);编写一个类带扩展方法：AddEnvVarConfig
 3、编写从ini文件中读取配置的类ConfigServices
+
+ini文件
+``` mail.ini
+SmtpServer=abc.mail.com
+UserName=admin
+Password=haha
+
+```
+IniFileConfigService
+```
+using System.Text;
+
+namespace ConfigServices
+{
+    public class IniFileConfigService : IConfigService
+    {
+        public string FilePath { get; set; }
+
+        public string GetValue(string key)
+        {
+            var kv = File.ReadAllLines(FilePath).Select(s => s.Split('=')).Select(strs => new { Name = strs[0], Value = strs[1] }).SingleOrDefault(kv => kv.Name == key);
+            if(kv != null)
+            {
+                return kv.Value;
+            }
+            else
+            {
+                return null;
+            }
+        }
+    }
+}
+```
+
+ConsoleAppMailSender
+```
+using ConfigServices;
+using LogServices;
+using MailServices;
+using Microsoft.Extensions.DependencyInjection;
+
+namespace ConsoleAppMailSender
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            ServiceCollection services = new ServiceCollection();
+            //services.AddScoped<IConfigService, ConfigService>();
+            services.AddScoped(typeof(IConfigService),s=>new IniFileConfigService { FilePath = "mail.ini"});
+            services.AddScoped<ILogProvider, ConsoleLogProvider>();
+            services.AddScoped<IMailService, MailService>();
+
+            using (var serviceProvider = services.BuildServiceProvider())
+            {
+                var mail = serviceProvider.GetRequiredService<IMailService>();
+                mail.SendEmail("Hello", "1", "111");
+            }
+
+            Console.Read();
+        }
+    }
+}
+```
+
