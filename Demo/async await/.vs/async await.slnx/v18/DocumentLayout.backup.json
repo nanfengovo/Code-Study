@@ -3,88 +3,16 @@
   "WorkspaceRootPath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18089864-8CFF-42D4-9728-08808A99B750}|Config1\\Config1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\config1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18089864-8CFF-42D4-9728-08808A99B750}|Config1\\Config1.csproj|solutionrelative:config1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|solutionrelative:configdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18089864-8CFF-42D4-9728-08808A99B750}|Config1\\Config1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\config1\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{18089864-8CFF-42D4-9728-08808A99B750}|Config1\\Config1.csproj|solutionrelative:config1\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12C4D921-14FA-4176-9D78-FB507FF33A89}|ConsoleAppMailSender\\ConsoleAppMailSender.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\consoleappmailsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12C4D921-14FA-4176-9D78-FB507FF33A89}|ConsoleAppMailSender\\ConsoleAppMailSender.csproj|solutionrelative:consoleappmailsender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\inifileconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\inifileconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\inifileconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\inifileconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{821CE996-ED02-41D4-8F84-2DAD57310D07}|CancellationToken1\\CancellationToken1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\cancellationtoken1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{821CE996-ED02-41D4-8F84-2DAD57310D07}|CancellationToken1\\CancellationToken1.csproj|solutionrelative:cancellationtoken1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\logservices\\consolelogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|solutionrelative:logservices\\consolelogextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\logservices\\ilogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|solutionrelative:logservices\\ilogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\configservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\iconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\iconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\logservices\\consolelogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5069FB04-E996-4A00-A4A5-790938D28C3B}|LogServices\\LogServices.csproj|solutionrelative:logservices\\consolelogprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\mailservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F42AF7D-B65F-414A-A3D6-FB8879A12338}|MailServices\\MailServices.csproj|solutionrelative:mailservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFED6363-BC03-4F4E-98DC-B4DC414589B5}|ConfigServices\\ConfigServices.csproj|solutionrelative:configservices\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24CF4CE3-3F80-49B6-B1BF-08595DA2F787}|LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24CF4CE3-3F80-49B6-B1BF-08595DA2F787}|LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982.csproj|solutionrelative:linq \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37774B90-0FE4-4E40-AE5B-F496F9515B9E}|LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq \u89E3\u51B3\u9762\u8BD5\u9898\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37774B90-0FE4-4E40-AE5B-F496F9515B9E}|LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898.csproj|solutionrelative:linq \u89E3\u51B3\u9762\u8BD5\u9898\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B93D1AB-0B1C-471B-8783-2C1D26D1B4D5}|DI\u4F20\u67D3\\DI\u4F20\u67D3.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\di\u4F20\u67D3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B93D1AB-0B1C-471B-8783-2C1D26D1B4D5}|DI\u4F20\u67D3\\DI\u4F20\u67D3.csproj|solutionrelative:di\u4F20\u67D3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configdi\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|solutionrelative:configdi\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4887B95-D320-44E5-B03E-0F87C0E1E004}|DI1\\DI1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\di1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4887B95-D320-44E5-B03E-0F87C0E1E004}|DI1\\DI1.csproj|solutionrelative:di1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{50193B62-D955-4E96-8D48-71E6071EE60F}|Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50193B62-D955-4E96-8D48-71E6071EE60F}|Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5.csproj|solutionrelative:linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EAFB6660-70D5-41DC-B1FD-0CC36A323CF5}|LINQ \u539F\u7406 where\\LINQ \u539F\u7406 where.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\linq \u539F\u7406 where\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAFB6660-70D5-41DC-B1FD-0CC36A323CF5}|LINQ \u539F\u7406 where\\LINQ \u539F\u7406 where.csproj|solutionrelative:linq \u539F\u7406 where\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -119,272 +47,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "config.json",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\config.json",
-              "RelativeDocumentMoniker": "Config1\\config.json",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\config.json",
-              "RelativeToolTip": "Config1\\config.json",
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
+              "RelativeDocumentMoniker": "ConfigDI\\TestController.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
+              "RelativeToolTip": "ConfigDI\\TestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-16T11:12:23.521Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T16:42:56.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\Program.cs",
-              "RelativeDocumentMoniker": "Config1\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\Program.cs*",
-              "RelativeToolTip": "Config1\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAmAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigDI\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
+              "RelativeToolTip": "ConfigDI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T11:11:37.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IniFileConfigExtensions.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IniFileConfigExtensions.cs",
-              "RelativeDocumentMoniker": "ConfigServices\\IniFileConfigExtensions.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IniFileConfigExtensions.cs",
-              "RelativeToolTip": "ConfigServices\\IniFileConfigExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T14:19:47.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IniFileConfigService.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IniFileConfigService.cs",
-              "RelativeDocumentMoniker": "ConfigServices\\IniFileConfigService.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IniFileConfigService.cs",
-              "RelativeToolTip": "ConfigServices\\IniFileConfigService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:35:19.243Z",
+              "WhenOpened": "2025-12-16T16:33:16.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConsoleAppMailSender\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleAppMailSender\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConsoleAppMailSender\\Program.cs",
-              "RelativeToolTip": "ConsoleAppMailSender\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:17:11.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\CancellationToken1\\Program.cs",
-              "RelativeDocumentMoniker": "CancellationToken1\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\CancellationToken1\\Program.cs",
-              "RelativeToolTip": "CancellationToken1\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:05:23.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IMailService.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\IMailService.cs",
-              "RelativeDocumentMoniker": "MailServices\\IMailService.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\IMailService.cs",
-              "RelativeToolTip": "MailServices\\IMailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:56:37.345Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MailService.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\MailService.cs",
-              "RelativeDocumentMoniker": "MailServices\\MailService.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\MailService.cs",
-              "RelativeToolTip": "MailServices\\MailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:58:28.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConsoleLogExtensions.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogExtensions.cs",
-              "RelativeDocumentMoniker": "LogServices\\ConsoleLogExtensions.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogExtensions.cs",
-              "RelativeToolTip": "LogServices\\ConsoleLogExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T14:09:29.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ILogProvider.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ILogProvider.cs",
-              "RelativeDocumentMoniker": "LogServices\\ILogProvider.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ILogProvider.cs",
-              "RelativeToolTip": "LogServices\\ILogProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:48:32.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ConfigService.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\ConfigService.cs",
-              "RelativeDocumentMoniker": "ConfigServices\\ConfigService.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\ConfigService.cs",
-              "RelativeToolTip": "ConfigServices\\ConfigService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:01:15.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ConsoleLogProvider.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogProvider.cs",
-              "RelativeDocumentMoniker": "LogServices\\ConsoleLogProvider.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LogServices\\ConsoleLogProvider.cs",
-              "RelativeToolTip": "LogServices\\ConsoleLogProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:50:20.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IConfigService.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IConfigService.cs",
-              "RelativeDocumentMoniker": "ConfigServices\\IConfigService.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\IConfigService.cs",
-              "RelativeToolTip": "ConfigServices\\IConfigService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:00:32.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\Class1.cs",
-              "RelativeDocumentMoniker": "ConfigServices\\Class1.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigServices\\Class1.cs",
-              "RelativeToolTip": "ConfigServices\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T13:00:10.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\Class1.cs",
-              "RelativeDocumentMoniker": "MailServices\\Class1.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\MailServices\\Class1.cs",
-              "RelativeToolTip": "MailServices\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:55:54.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\DI\u4F20\u67D3\\Program.cs",
-              "RelativeDocumentMoniker": "DI\u4F20\u67D3\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\DI\u4F20\u67D3\\Program.cs",
-              "RelativeToolTip": "DI\u4F20\u67D3\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvyIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T14:08:25.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\DI1\\Program.cs",
               "RelativeDocumentMoniker": "DI1\\Program.cs",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\DI1\\Program.cs",
               "RelativeToolTip": "DI1\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:41:31.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\Program.cs",
-              "RelativeToolTip": "LINQ \u89E3\u51B3\u9762\u8BD5\u95EE\u98982\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwCoAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T16:02:37.781Z",
+              "WhenOpened": "2025-12-10T15:41:31.316Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs",
-              "RelativeToolTip": "LINQ \u89E3\u51B3\u9762\u8BD5\u9898\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T15:47:45.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
-              "RelativeDocumentMoniker": "Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
-              "RelativeToolTip": "Linq\u5E38\u7528\u6269\u5C55\u65B9\u6CD5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:14:42.886Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u539F\u7406 where\\Program.cs",
-              "RelativeDocumentMoniker": "LINQ \u539F\u7406 where\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LINQ \u539F\u7406 where\\Program.cs",
-              "RelativeToolTip": "LINQ \u539F\u7406 where\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T08:00:05.314Z"
             }
           ]
         }
