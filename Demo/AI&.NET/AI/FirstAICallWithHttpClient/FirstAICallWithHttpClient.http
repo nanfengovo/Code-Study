@@ -1,0 +1,6 @@
+@FirstAICallWithHttpClient_HostAddress = http://localhost:5118
+
+GET {{FirstAICallWithHttpClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

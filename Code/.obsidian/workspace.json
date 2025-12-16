@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/C Sharp/AI+.NET/1.0 基础概念.md",
+                "file": "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0 基础概念"
+              "title": "配置系统"
             }
           }
         ]
@@ -186,6 +186,7 @@
   "active": "8dfef4abceebe6de",
   "lastOpenFiles": [
     "后端/C Sharp/AI+.NET/1.1 调用AI接口.md",
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
     "后端/C Sharp/AI+.NET/1.0 基础概念.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
     "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",

@@ -1,0 +1,15 @@
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\CallAI.GeneratedMSBuildEditorConfig.editorconfig
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\CallAI.AssemblyInfoInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\CallAI.AssemblyInfo.cs
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\CallAI.csproj.CoreCompileInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\CallAI.sourcelink.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\bin\Debug\net8.0\CallAI.exe
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\bin\Debug\net8.0\CallAI.deps.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\bin\Debug\net8.0\CallAI.runtimeconfig.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\bin\Debug\net8.0\CallAI.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\bin\Debug\net8.0\CallAI.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\CallAI.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\refint\CallAI.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\CallAI.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\CallAI.genruntimeconfig.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\AI&.NET\AI\CallAI\obj\Debug\net8.0\ref\CallAI.dll

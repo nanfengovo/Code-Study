@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Config1/Config1.csproj" Id="18089864-8cff-42d4-9728-08808a99b750" />
   <Project Path="ConfigServices/ConfigServices.csproj" Id="efed6363-bc03-4f4e-98dc-b4dc414589b5" />
   <Project Path="ConsoleAppMailSender/ConsoleAppMailSender.csproj" Id="12c4d921-14fa-4176-9d78-fb507ff33a89" />
   <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/ASPNETCore CancellationToken2/ASPNETCore CancellationToken2.csproj" Id="14bf798a-b930-447a-9c8b-9760a31c145b" />

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8UoBq7kp99lgpbdgVGL9TcQ75Za6d+DcZo6NbxPcKmk=",
+  "Source": "FirstAICallWithHttpClient",
+  "BasePath": "_content/FirstAICallWithHttpClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
