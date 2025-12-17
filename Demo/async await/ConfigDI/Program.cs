@@ -27,5 +27,15 @@ namespace ConfigDI
         public string Name { get; set; } = string.Empty;
 
         public string Age { get; set; } = string.Empty;
+
+        public Proxy Proxy { get; set; } = new Proxy();
+    }
+
+    public class Proxy
+    {
+        public string Address { get; set; } = string.Empty;
+        public int Port { get; set; }
+
+        public int[] ids { get; set; }
     }
 }

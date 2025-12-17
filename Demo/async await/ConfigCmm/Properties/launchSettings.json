@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConfigCmm": {
+      "commandName": "Project",
+      "commandLineArgs": "name=ben age=5 proxy:address=aaa proxy:port=80 proxy:ids:0=3 proxy:ids:1=5"
+    }
+  }
+}

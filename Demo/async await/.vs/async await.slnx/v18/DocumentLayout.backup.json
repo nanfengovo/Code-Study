@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|solutionrelative:configdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configdi\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|solutionrelative:configdi\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4887B95-D320-44E5-B03E-0F87C0E1E004}|DI1\\DI1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\di1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4887B95-D320-44E5-B03E-0F87C0E1E004}|DI1\\DI1.csproj|solutionrelative:di1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configcmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|solutionrelative:configcmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|solutionrelative:configdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configcmm\\configcmm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|solutionrelative:configcmm\\configcmm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configdi\\configdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|solutionrelative:configdi\\configdi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,41 +54,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
-              "RelativeDocumentMoniker": "ConfigDI\\TestController.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
-              "RelativeToolTip": "ConfigDI\\TestController.cs",
+              "DocumentIndex": 3,
+              "Title": "ConfigCmm",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\ConfigCmm.csproj",
+              "RelativeDocumentMoniker": "ConfigCmm\\ConfigCmm.csproj",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\ConfigCmm.csproj",
+              "RelativeToolTip": "ConfigCmm\\ConfigCmm.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T11:21:41.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigDI",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\ConfigDI.csproj",
+              "RelativeDocumentMoniker": "ConfigDI\\ConfigDI.csproj",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\ConfigDI.csproj",
+              "RelativeToolTip": "ConfigDI\\ConfigDI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T16:42:56.967Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-17T11:21:28.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
-              "RelativeDocumentMoniker": "ConfigDI\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
-              "RelativeToolTip": "ConfigDI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
+              "RelativeDocumentMoniker": "ConfigDI\\TestController.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs*",
+              "RelativeToolTip": "ConfigDI\\TestController.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T16:33:16.327Z",
+              "WhenOpened": "2025-12-17T11:02:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigCmm\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\Program.cs",
+              "RelativeToolTip": "ConfigCmm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:56:02.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\DI1\\Program.cs",
-              "RelativeDocumentMoniker": "DI1\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\DI1\\Program.cs",
-              "RelativeToolTip": "DI1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
+              "RelativeDocumentMoniker": "ConfigDI\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
+              "RelativeToolTip": "ConfigDI\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T15:41:31.316Z",
+              "WhenOpened": "2025-12-16T16:33:16.327Z",
               "EditorCaption": ""
             }
           ]
