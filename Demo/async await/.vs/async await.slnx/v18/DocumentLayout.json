@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configcmm\\configcmm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|solutionrelative:configcmm\\configcmm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\fxconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|solutionrelative:\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\fxconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|solutionrelative:\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|solutionrelative:\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|solutionrelative:\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A02749F-E188-B35E-6AB2-C5AD85CBB06E}|WinFormsApp1\\WinFormsApp1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A02749F-E188-B35E-6AB2-C5AD85CBB06E}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configcmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|solutionrelative:configcmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18089864-8CFF-42D4-9728-08808A99B750}|Config1\\Config1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\config1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18089864-8CFF-42D4-9728-08808A99B750}|Config1\\Config1.csproj|solutionrelative:config1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +39,12 @@
       "RelativeMoniker": "D:0:0:{04438F17-FA7E-42B1-AA02-8FBEB9D5A9EE}|ConfigDI\\ConfigDI.csproj|solutionrelative:configdi\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configcmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|solutionrelative:configcmm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18089864-8CFF-42D4-9728-08808A99B750}|Config1\\Config1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\config1\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18089864-8CFF-42D4-9728-08808A99B750}|Config1\\Config1.csproj|solutionrelative:config1\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\configcmm\\configcmm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{14700881-84E9-49CA-BE19-FDBAEC306204}|ConfigCmm\\ConfigCmm.csproj|solutionrelative:configcmm\\configcmm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +78,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "web.config",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-18T10:30:00.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "web.config",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-17T13:58:01.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:27:53.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FxConfigProvider.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\FxConfigProvider.cs",
+              "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\FxConfigProvider.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\FxConfigProvider.cs",
+              "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\FxConfigProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:10:52.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\Program.cs",
+              "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\Program.cs",
+              "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:10:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\Program.cs",
+              "RelativeDocumentMoniker": "Config1\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\Program.cs",
+              "RelativeToolTip": "Config1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:30:34.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "config.json",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\config.json",
+              "RelativeDocumentMoniker": "Config1\\config.json",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\config.json",
+              "RelativeToolTip": "Config1\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-17T11:27:53.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ConfigCmm",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\ConfigCmm.csproj",
               "RelativeDocumentMoniker": "ConfigCmm\\ConfigCmm.csproj",
@@ -62,33 +181,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "TestController.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
               "RelativeDocumentMoniker": "ConfigDI\\TestController.cs",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
               "RelativeToolTip": "ConfigDI\\TestController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T11:02:50.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\Program.cs",
               "RelativeDocumentMoniker": "ConfigCmm\\Program.cs",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\Program.cs",
               "RelativeToolTip": "ConfigCmm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T10:56:02.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
               "RelativeDocumentMoniker": "ConfigDI\\Program.cs",

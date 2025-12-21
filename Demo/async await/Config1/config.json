@@ -1,6 +1,11 @@
 {
   "Config": {
     "name": "yzk",
-    "age": "18"
+    "age": "18",
+    "proxy": {
+      "address": "aa",
+      "port": 80,
+      "ids": [3,5]
+    }
   }
 }

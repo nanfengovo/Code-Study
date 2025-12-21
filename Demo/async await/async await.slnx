@@ -22,4 +22,5 @@
   <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/WinFormsApp1/WinFormsApp1.csproj" />
   <Project Path="LogServices/LogServices.csproj" Id="5069fb04-e996-4a00-a4a5-790938d28c3b" />
   <Project Path="MailServices/MailServices.csproj" Id="7f42af7d-b65f-414a-a3d6-fb8879a12338" />
+  <Project Path="开发自己的配置提供者/开发自己的配置提供者.csproj" Id="114703a6-6122-4738-858c-c1a1e82b0c91" />
 </Solution>
