@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{90CC4004-5891-4CAC-BBDC-09A72E0D79CD}|LoggingDemo1\\LoggingDemo1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\loggingdemo1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CC4004-5891-4CAC-BBDC-09A72E0D79CD}|LoggingDemo1\\LoggingDemo1.csproj|solutionrelative:loggingdemo1\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CC4004-5891-4CAC-BBDC-09A72E0D79CD}|LoggingDemo1\\LoggingDemo1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\loggingdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CC4004-5891-4CAC-BBDC-09A72E0D79CD}|LoggingDemo1\\LoggingDemo1.csproj|solutionrelative:loggingdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\fxconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{114703A6-6122-4738-858C-C1A1E82B0C91}|\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005.csproj|solutionrelative:\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\fxconfigprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,15 +86,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LoggingDemo1\\Test.cs",
+              "RelativeDocumentMoniker": "LoggingDemo1\\Test.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LoggingDemo1\\Test.cs*",
+              "RelativeToolTip": "LoggingDemo1\\Test.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:56:33.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "web.config",
-              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
-              "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
-              "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-18T10:30:00.393Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LoggingDemo1\\Program.cs",
+              "RelativeDocumentMoniker": "LoggingDemo1\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LoggingDemo1\\Program.cs",
+              "RelativeToolTip": "LoggingDemo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:59:06.268Z",
               "EditorCaption": ""
             },
             {
@@ -97,14 +118,25 @@
               "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
               "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-17T13:58:01.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T10:30:00.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "web.config",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-17T13:58:01.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
@@ -112,25 +144,23 @@
               "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:27:53.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T13:27:53.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FxConfigProvider.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\FxConfigProvider.cs",
               "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\FxConfigProvider.cs",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\FxConfigProvider.cs",
               "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\FxConfigProvider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:10:52.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T13:10:52.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\Program.cs",
               "RelativeDocumentMoniker": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\Program.cs",
@@ -138,12 +168,11 @@
               "RelativeToolTip": "\u5F00\u53D1\u81EA\u5DF1\u7684\u914D\u7F6E\u63D0\u4F9B\u8005\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:10:22.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T13:10:22.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\Program.cs",
               "RelativeDocumentMoniker": "Config1\\Program.cs",
@@ -151,12 +180,11 @@
               "RelativeToolTip": "Config1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:30:34.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T11:30:34.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "config.json",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\config.json",
               "RelativeDocumentMoniker": "Config1\\config.json",
@@ -164,24 +192,22 @@
               "RelativeToolTip": "Config1\\config.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T11:27:53.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T11:27:53.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ConfigCmm",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\ConfigCmm.csproj",
               "RelativeDocumentMoniker": "ConfigCmm\\ConfigCmm.csproj",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\ConfigCmm.csproj",
               "RelativeToolTip": "ConfigCmm\\ConfigCmm.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-17T11:21:41.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T11:21:41.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "TestController.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
               "RelativeDocumentMoniker": "ConfigDI\\TestController.cs",
@@ -189,12 +215,11 @@
               "RelativeToolTip": "ConfigDI\\TestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:02:50.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T11:02:50.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\Program.cs",
               "RelativeDocumentMoniker": "ConfigCmm\\Program.cs",
@@ -202,12 +227,11 @@
               "RelativeToolTip": "ConfigCmm\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T10:56:02.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-17T10:56:02.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
               "RelativeDocumentMoniker": "ConfigDI\\Program.cs",
@@ -215,8 +239,7 @@
               "RelativeToolTip": "ConfigDI\\Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAywCYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T16:33:16.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T16:33:16.327Z"
             }
           ]
         }
