@@ -186,8 +186,9 @@
   "lastOpenFiles": [
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md",
-    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/异步编程.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/异步编程.md",
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/LINQ--让数据处理变得简单.md",
     "工具/Git/git.md",
     "前端/Vue/uniapp/未命名.md",
     "前端/Vue/uniapp",
@@ -198,7 +199,6 @@
     "后端/C Sharp/AI+.NET/1.1 调用AI接口.md",
     "后端/C Sharp/AI+.NET/1.0 基础概念.md",
     "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
-    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/LINQ--让数据处理变得简单.md",
     "后端/C Sharp/ASP.NET Core/知名类库/Identity/1.1 实现基于角色的访问控制（RBAC）.md",
     "后端/C Sharp/ASP.NET Core/知名类库/Identity",
     "后端/C Sharp/ASP.NET Core/知名类库",

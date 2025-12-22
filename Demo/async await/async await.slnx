@@ -23,5 +23,6 @@
   <Project Path="LoggingDemo1/LoggingDemo1.csproj" Id="90cc4004-5891-4cac-bbdc-09a72e0d79cd" />
   <Project Path="LogServices/LogServices.csproj" Id="5069fb04-e996-4a00-a4a5-790938d28c3b" />
   <Project Path="MailServices/MailServices.csproj" Id="7f42af7d-b65f-414a-a3d6-fb8879a12338" />
+  <Project Path="NLogDemo/NLogDemo.csproj" Id="dffc1b23-42af-41ae-a747-c0f1525037c2" />
   <Project Path="开发自己的配置提供者/开发自己的配置提供者.csproj" Id="114703a6-6122-4738-858c-c1a1e82b0c91" />
 </Solution>

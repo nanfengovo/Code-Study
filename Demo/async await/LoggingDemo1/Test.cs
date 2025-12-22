@@ -5,7 +5,7 @@ using System.Text;
 
 namespace LoggingDemo1
 {
-    internal class Test
+    public class Test
     {
         private ILogger<Test> _logger;
 
