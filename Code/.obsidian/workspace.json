@@ -182,8 +182,9 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "8dfef4abceebe6de",
+  "active": "6c62472a3e3548d8",
   "lastOpenFiles": [
+    "原型设计",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
