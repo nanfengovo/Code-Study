@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NLogWebDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+248f54e28fdf361296bd3e5aad85e2b7293d2a19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31315e97808e00513b6158eddbaf5363c056c1da")]
 [assembly: System.Reflection.AssemblyProductAttribute("NLogWebDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NLogWebDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

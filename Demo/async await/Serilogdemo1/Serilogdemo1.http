@@ -1,0 +1,6 @@
+@Serilogdemo1_HostAddress = http://localhost:5133
+
+GET {{Serilogdemo1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

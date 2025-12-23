@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "OFfrwnv9B6Y=",
+  "dgSpecHash": "b6X5rAs1qR4=",
   "success": true,
   "projectFilePath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogWebDemo\\NLogWebDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
     "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
     "C:\\Users\\nanfengqaq\\.nuget\\packages\\nlog\\6.0.6\\nlog.6.0.6.nupkg.sha512",
-    "C:\\Users\\nanfengqaq\\.nuget\\packages\\nlog.extensions.logging\\6.1.0\\nlog.extensions.logging.6.1.0.nupkg.sha512"
+    "C:\\Users\\nanfengqaq\\.nuget\\packages\\nlog.extensions.logging\\6.1.0\\nlog.extensions.logging.6.1.0.nupkg.sha512",
+    "C:\\Users\\nanfengqaq\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

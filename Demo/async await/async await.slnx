@@ -4,6 +4,7 @@
   <Project Path="ConfigDI/ConfigDI.csproj" Id="04438f17-fa7e-42b1-aa02-8fbeb9d5a9ee" />
   <Project Path="ConfigServices/ConfigServices.csproj" Id="efed6363-bc03-4f4e-98dc-b4dc414589b5" />
   <Project Path="ConsoleAppMailSender/ConsoleAppMailSender.csproj" Id="12c4d921-14fa-4176-9d78-fb507ff33a89" />
+  <Project Path="Demo/Demo.csproj" Id="923852f7-8d10-4975-a52c-17a8b3c685cf" />
   <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/ASPNETCore CancellationToken2/ASPNETCore CancellationToken2.csproj" Id="14bf798a-b930-447a-9c8b-9760a31c145b" />
   <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/async await 原理/async await 原理.csproj" />
   <Project Path="E:/nanfengqaq/Study-NotePad/Code-Study/Demo/async await/async await/async await.csproj" />
@@ -25,5 +26,6 @@
   <Project Path="MailServices/MailServices.csproj" Id="7f42af7d-b65f-414a-a3d6-fb8879a12338" />
   <Project Path="NLogDemo/NLogDemo.csproj" Id="dffc1b23-42af-41ae-a747-c0f1525037c2" />
   <Project Path="NLogWebDemo/NLogWebDemo.csproj" Id="b2d5c428-b591-4c50-a3fc-fd050695f56a" />
+  <Project Path="Serilogdemo1/Serilogdemo1.csproj" Id="4bd1acd6-7960-457e-a331-194b2749a9ef" />
   <Project Path="开发自己的配置提供者/开发自己的配置提供者.csproj" Id="114703a6-6122-4738-858c-c1a1e82b0c91" />
 </Solution>

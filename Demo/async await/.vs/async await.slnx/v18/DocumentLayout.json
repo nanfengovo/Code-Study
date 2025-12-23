@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\nlogwebdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|solutionrelative:nlogwebdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{923852F7-8D10-4975-A52C-17A8B3C685CF}|Demo\\Demo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923852F7-8D10-4975-A52C-17A8B3C685CF}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\nlogwebdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|solutionrelative:nlogwebdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{923852F7-8D10-4975-A52C-17A8B3C685CF}|Demo\\Demo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\demo\\demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{923852F7-8D10-4975-A52C-17A8B3C685CF}|Demo\\Demo.csproj|solutionrelative:demo\\demo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923852F7-8D10-4975-A52C-17A8B3C685CF}|Demo\\Demo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\demo\\demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{923852F7-8D10-4975-A52C-17A8B3C685CF}|Demo\\Demo.csproj|solutionrelative:demo\\demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\nlogwebdemo\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|solutionrelative:nlogwebdemo\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\nlogwebdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|solutionrelative:nlogwebdemo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\nlogwebdemo\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|solutionrelative:nlogwebdemo\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\nlogwebdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|solutionrelative:nlogwebdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD1ACD6-7960-457E-A331-194B2749A9EF}|Serilogdemo1\\Serilogdemo1.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\serilogdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD1ACD6-7960-457E-A331-194B2749A9EF}|Serilogdemo1\\Serilogdemo1.csproj|solutionrelative:serilogdemo1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\nlogwebdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D5C428-B591-4C50-A3FC-FD050695F56A}|NLogWebDemo\\NLogWebDemo.csproj|solutionrelative:nlogwebdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFFC1B23-42AF-41AE-A747-C0F1525037C2}|NLogDemo\\NLogDemo.csproj|e:\\nanfengqaq\\study-notepad\\code-study\\demo\\async await\\nlogdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,6 +115,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Demo.http",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Demo\\Demo.http",
+              "RelativeDocumentMoniker": "Demo\\Demo.http",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Demo\\Demo.http",
+              "RelativeToolTip": "Demo\\Demo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-23T13:34:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Demo\\Demo.csproj",
+              "RelativeDocumentMoniker": "Demo\\Demo.csproj",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Demo\\Demo.csproj",
+              "RelativeToolTip": "Demo\\Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-23T13:34:12.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Serilogdemo1\\Program.cs",
+              "RelativeDocumentMoniker": "Serilogdemo1\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Serilogdemo1\\Program.cs",
+              "RelativeToolTip": "Serilogdemo1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:32:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T13:31:51.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogWebDemo\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "NLogWebDemo\\Controllers\\WeatherForecastController.cs",
@@ -111,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogWebDemo\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "NLogWebDemo\\WeatherForecast.cs",
@@ -130,27 +198,27 @@
               "RelativeDocumentMoniker": "NLogWebDemo\\nlog.config",
               "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogWebDemo\\nlog.config",
               "RelativeToolTip": "NLogWebDemo\\nlog.config",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-12-22T12:44:55.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogWebDemo\\Program.cs",
               "RelativeDocumentMoniker": "NLogWebDemo\\Program.cs",
-              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogWebDemo\\Program.cs*",
-              "RelativeToolTip": "NLogWebDemo\\Program.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogWebDemo\\Program.cs",
+              "RelativeToolTip": "NLogWebDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T12:43:46.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "nlog.config",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogDemo\\nlog.config",
               "RelativeDocumentMoniker": "NLogDemo\\nlog.config",
@@ -163,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "nlog.config",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogDemo\\nlog.config",
               "RelativeDocumentMoniker": "NLogDemo\\nlog.config",
@@ -176,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\NLogDemo\\Program.cs",
               "RelativeDocumentMoniker": "NLogDemo\\Program.cs",
@@ -189,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Test.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LoggingDemo1\\Test.cs",
               "RelativeDocumentMoniker": "LoggingDemo1\\Test.cs",
@@ -202,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LoggingDemo1\\Program.cs",
               "RelativeDocumentMoniker": "LoggingDemo1\\Program.cs",
@@ -215,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\WinFormsApp1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.Designer.cs",
@@ -223,11 +291,12 @@
               "RelativeToolTip": "WinFormsApp1\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T13:27:53.081Z"
+              "WhenOpened": "2025-12-17T13:27:53.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\Program.cs",
               "RelativeDocumentMoniker": "Config1\\Program.cs",
@@ -235,11 +304,12 @@
               "RelativeToolTip": "Config1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:30:34.965Z"
+              "WhenOpened": "2025-12-17T11:30:34.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "config.json",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\Config1\\config.json",
               "RelativeDocumentMoniker": "Config1\\config.json",
@@ -247,11 +317,12 @@
               "RelativeToolTip": "Config1\\config.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-17T11:27:53.103Z"
+              "WhenOpened": "2025-12-17T11:27:53.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "ConfigCmm",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\ConfigCmm.csproj",
               "RelativeDocumentMoniker": "ConfigCmm\\ConfigCmm.csproj",
@@ -263,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "TestController.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\TestController.cs",
               "RelativeDocumentMoniker": "ConfigDI\\TestController.cs",
@@ -271,11 +342,12 @@
               "RelativeToolTip": "ConfigDI\\TestController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T11:02:50.881Z"
+              "WhenOpened": "2025-12-17T11:02:50.881Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigCmm\\Program.cs",
               "RelativeDocumentMoniker": "ConfigCmm\\Program.cs",
@@ -283,11 +355,12 @@
               "RelativeToolTip": "ConfigCmm\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T10:56:02.727Z"
+              "WhenOpened": "2025-12-17T10:56:02.727Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\ConfigDI\\Program.cs",
               "RelativeDocumentMoniker": "ConfigDI\\Program.cs",
@@ -295,7 +368,8 @@
               "RelativeToolTip": "ConfigDI\\Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAywCYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T16:33:16.327Z"
+              "WhenOpened": "2025-12-16T16:33:16.327Z",
+              "EditorCaption": ""
             }
           ]
         }

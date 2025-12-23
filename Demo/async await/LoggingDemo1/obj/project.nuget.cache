@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YmF8LQ3LaAI=",
+  "dgSpecHash": "Hc4/4efJ0Wg=",
   "success": true,
   "projectFilePath": "E:\\nanfengqaq\\Study-NotePad\\Code-Study\\Demo\\async await\\LoggingDemo1\\LoggingDemo1.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,8 @@
     "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.logging.console\\10.0.1\\microsoft.extensions.logging.console.10.0.1.nupkg.sha512",
     "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.options\\10.0.1\\microsoft.extensions.options.10.0.1.nupkg.sha512",
     "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.1\\microsoft.extensions.options.configurationextensions.10.0.1.nupkg.sha512",
-    "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.1\\microsoft.extensions.primitives.10.0.1.nupkg.sha512"
+    "C:\\Users\\nanfengqaq\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.1\\microsoft.extensions.primitives.10.0.1.nupkg.sha512",
+    "C:\\Users\\nanfengqaq\\.nuget\\packages\\serilog\\4.3.0\\serilog.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
