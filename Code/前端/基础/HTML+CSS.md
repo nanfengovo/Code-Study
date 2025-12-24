@@ -7,4 +7,12 @@
 
 # 标签
 ## marquee 跑马灯
+### 标签属性
+```
+<marquee loop="1" ><input/>11</marquee>
+```
+><marquee loop="1" ><input/>11</marquee>
+
+loop="1"跑马灯的效果循环一次
+
 ## 
