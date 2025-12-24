@@ -9,7 +9,8 @@
       "LoggingDemo1/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Logging": "10.0.1",
-          "Microsoft.Extensions.Logging.Console": "10.0.1"
+          "Microsoft.Extensions.Logging.Console": "10.0.1",
+          "Serilog": "4.3.0"
         },
         "runtime": {
           "LoggingDemo1.dll": {}
@@ -160,6 +161,14 @@
             "fileVersion": "10.0.125.57005"
           }
         }
+      },
+      "Serilog/4.3.0": {
+        "runtime": {
+          "lib/net9.0/Serilog.dll": {
+            "assemblyVersion": "4.3.0.0",
+            "fileVersion": "4.3.0.0"
+          }
+        }
       }
     }
   },
@@ -252,6 +261,13 @@
       "sha512": "sha512-DO8XrJkp5x4PddDuc/CH37yDBCs9BYN6ijlKyR3vMb55BP1Vwh90vOX8bNfnKxr5B2qEI3D8bvbY1fFbDveDHQ==",
       "path": "microsoft.extensions.primitives/10.0.1",
       "hashPath": "microsoft.extensions.primitives.10.0.1.nupkg.sha512"
+    },
+    "Serilog/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+cDryFR0GRhsGOnZSKwaDzRRl4MupvJ42FhCE4zhQRVanX0Jpg6WuCBk59OVhVDPmab1bB+nRykAnykYELA9qQ==",
+      "path": "serilog/4.3.0",
+      "hashPath": "serilog.4.3.0.nupkg.sha512"
     }
   }
 }

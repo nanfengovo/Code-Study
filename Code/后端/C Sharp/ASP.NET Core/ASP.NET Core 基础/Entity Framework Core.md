@@ -18,3 +18,60 @@ EF Core又增加了很多新东西。
 4、EF中的一些类的命名空间以及一些方法的名字在EF Core中稍有不同。
 5、EF不再做新特性增加。
 
+# 搭建EF Core开发环境
+> EFCore 是对于底层ADO.NET Core的封装，因此ADO.NET Core支持的数据库不一定被EFCore支持
+
+## 使用MYSQL 
+>https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql
+
+## 使用Sql Server
+### 搭建环境1
+1、经典步骤:建实体类;建DbContext;生成数据库:编写调用EF Core的业务代码。
+2、Book.cs
+public class Book
+{
+	public long Id {get; set; }//主键
+	public string Title {get; set; }//标题
+	public DateTime PubTime { get; set; }//发布日期
+	public double Price {get; set; }//单价
+}
+
+> Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
+### 搭建环境2
+创建实现了IEntityTypeConfiguration接口的实体配置类，配置实体类和数据库表的对应关系
+```
+    internal class BookEntityConfig:IEntityTypeConfiguration<Book>
+    {
+        public void Configure(EntityTypeBuilder<Book> builder)
+        {
+            builder.ToTable("T_Books");
+        }
+    }
+```
+
+## 搭建环境3
+创建继承自DbContext的类
+```
+public class TestDbContext:DbContext
+{
+    public DbSet<Book> Books { get; set; }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        string conStr = "Server = .;Database = demo1;MultipleActiveResults = true";
+        optionsBuilder.UseSqlServer(conStr);
+    }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+        modelBuilder.ApplyConfigurationsFromAssembly(this.GetType().Assembly)
+    }
+}
+```
+## 搭建环境4
+1、再在“程序包管理器控制台”中执行如下命令Add-igration InitialCreate会自动在项目的migrations文件夹中中生成操作数据库的C#代码。讲解一下生成代码的作用。
+InitialCreate是什么?
+2、代码需要执行后才会应用对数据库的操作。“程序包管理器控制台”中执行Update-database。
+3、查看一下数据库，表建好了。

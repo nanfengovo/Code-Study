@@ -35,3 +35,4 @@ E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Serilogdemo1\obj\Debug\n
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Serilogdemo1\obj\Debug\net8.0\Serilogdemo1.pdb
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Serilogdemo1\obj\Debug\net8.0\Serilogdemo1.genruntimeconfig.cache
 E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Serilogdemo1\obj\Debug\net8.0\ref\Serilogdemo1.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\Serilogdemo1\bin\Debug\net8.0\Serilog.dll

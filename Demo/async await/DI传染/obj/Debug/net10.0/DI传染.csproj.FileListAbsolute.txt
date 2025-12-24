@@ -1,0 +1,15 @@
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\bin\Debug\net10.0\DI传染.exe
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\bin\Debug\net10.0\DI传染.deps.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\bin\Debug\net10.0\DI传染.runtimeconfig.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\bin\Debug\net10.0\DI传染.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\bin\Debug\net10.0\DI传染.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\DI传染.GeneratedMSBuildEditorConfig.editorconfig
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\DI传染.AssemblyInfoInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\DI传染.AssemblyInfo.cs
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\DI传染.csproj.CoreCompileInputs.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\DI传染.sourcelink.json
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\DI传染.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\refint\DI传染.dll
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\DI传染.pdb
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\DI传染.genruntimeconfig.cache
+E:\nanfengqaq\Study-NotePad\Code-Study\Demo\async await\DI传染\obj\Debug\net10.0\ref\DI传染.dll

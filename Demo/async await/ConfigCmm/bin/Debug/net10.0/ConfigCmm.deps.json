@@ -9,6 +9,7 @@
       "ConfigCmm/1.0.0": {
         "dependencies": {
           "ConfigDI": "1.0.0",
+          "Microsoft.Extensions.Configuration": "10.0.1",
           "Microsoft.Extensions.Configuration.CommandLine": "10.0.1",
           "Microsoft.Extensions.DependencyInjection": "10.0.1"
         },
