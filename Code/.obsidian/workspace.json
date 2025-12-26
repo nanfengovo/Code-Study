@@ -11,12 +11,14 @@
             "id": "8dfef4abceebe6de",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "前端/基础/笔记/HTML4笔记.pdf"
+                "file": "前端/基础/HTML+CSS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "HTML4笔记"
+              "icon": "lucide-file",
+              "title": "HTML+CSS"
             }
           }
         ]
@@ -153,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/基础/笔记/HTML4笔记.pdf",
+                "file": "前端/基础/HTML+CSS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "HTML4笔记 的大纲"
+              "title": "HTML+CSS 的大纲"
             }
           }
         ],
@@ -182,10 +184,10 @@
   },
   "active": "8dfef4abceebe6de",
   "lastOpenFiles": [
+    "前端/基础/笔记/HTML4笔记.pdf",
     "前端/基础/笔记/HTML5笔记.pdf",
     "前端/基础/HTML+CSS.md",
     "未命名.base",
-    "前端/基础/笔记/HTML4笔记.pdf",
     "前端/基础/笔记/CSS3笔记.pdf",
     "前端/基础/笔记/CSS2笔记.pdf",
     "前端/基础/笔记",
