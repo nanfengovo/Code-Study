@@ -45,3 +45,26 @@ await CreateApplicationAsync(
 );
 ```
 ![[bb7cf808179e470c8afcf17d00f0e7c.png]]
+
+# 基于RBAC的权限管理
+权限：
+		获取指定组的指定关键字的权限 ([get] /api/permission-management/permissions)
+		 授予/取消角色/用户权限 ([put] /api/permission-management/permissions)
+角色：
+		获取所有角色  ([get] /api/identity/roles/all)
+		条件查询获取所有角色 ([get] /api/identity/roles)
+		添加新角色 ([post] /api/identity/roles )
+		根据角色id获取角色信息  ([get] /api/identity/roles/{id} )
+		根据角色id更新角色信息（是否公开，是否默认）([put] /api/identity/roles/{id} )
+		根据角色id删除角色信息  ([delete] /api/identity/roles/{id} )
+用户：
+		根据用户id获取用户信息（[get] /api/identity/users/{id}）
+		根据用户id更新用户信息（[put] /api/identity/users/{id}）
+		根据用户id删除用户（[delete] /api/identity/users/{id}）
+		条件查询获取所有的用户 （[get] /api/identity/users）
+		添加新用户（[post] /api/identity/users）
+		根据用户id获取该用户被分配的角色 （[get] /api/idenrtity/users/{id}/roles）
+		给指定用户重新分配角色（会覆盖之前的） （[put] /api/idenrtity/users/{id}/roles）
+		获取系统中**当前登录用户有权分配**的所有角色列表 （[get] /api/identity/users/assignable-roles）
+		确定具体的**用户名**来获取该用户的详细信息（[get] /api/identity/user/by-username/{username} ）
+		通过**电子邮箱地址**来精准查找并获取用户信息 （[get] /api/identity/user/by-email/{email}）

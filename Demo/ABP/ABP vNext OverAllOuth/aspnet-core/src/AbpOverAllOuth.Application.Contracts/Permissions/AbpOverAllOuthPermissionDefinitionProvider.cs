@@ -11,6 +11,8 @@ public class AbpOverAllOuthPermissionDefinitionProvider : PermissionDefinitionPr
         var myGroup = context.AddGroup(AbpOverAllOuthPermissions.GroupName);
         //Define your own permissions here. Example:
         //myGroup.AddPermission(AbpOverAllOuthPermissions.MyPermission1, L("Permission:MyPermission1"));
+
+        myGroup.AddPermission(AbpOverAllOuthPermissions.Create, L("Permission:Create"));
     }
 
     private static LocalizableString L(string name)
