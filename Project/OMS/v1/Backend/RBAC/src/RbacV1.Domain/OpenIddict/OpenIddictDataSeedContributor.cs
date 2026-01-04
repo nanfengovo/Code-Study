@@ -104,26 +104,29 @@ public class OpenIddictDataSeedContributor : IDataSeedContributor, ITransientDep
 
             // 新增支持密码模式的客户端（修正后）
             await CreateApplicationAsync(
-                name: "RRbacV1_Password", // 新的client_id
-                type: OpenIddictConstants.ClientTypes.Public, // 公开客户端（无需密钥）
-                consentType: OpenIddictConstants.ConsentTypes.Implicit, // 跳过授权确认（常量写法更规范）
+                name: "RRbacV1_Password",
+                type: OpenIddictConstants.ClientTypes.Public,
+                consentType: OpenIddictConstants.ConsentTypes.Implicit,
                 displayName: "Password Grant Client",
-                secret: null, // 公开客户端无需secret
+                secret: null,
                 grantTypes: new List<string>
                 {
-                    OpenIddictConstants.GrantTypes.Password // 核心：指定密码模式（替换掉AuthorizationCode）
+                     OpenIddictConstants.GrantTypes.Password,
+                     OpenIddictConstants.GrantTypes.RefreshToken // 【1. 新增】允许刷新令牌模式
                 },
                 permissions: new List<string>
                 {
-                    OpenIddictConstants.Permissions.Endpoints.Token, // 允许访问token端点
-                    OpenIddictConstants.Permissions.GrantTypes.Password, // 显式授权密码模式
-                    OpenIddictConstants.Permissions.Scopes.Email,
-                    OpenIddictConstants.Permissions.Scopes.Profile,
-                    OpenIddictConstants.Permissions.Scopes.Roles,
-                    "RRbacV1" // 项目对应的scope（必须和你的项目名称一致）
+                     OpenIddictConstants.Permissions.Endpoints.Token,
+                     OpenIddictConstants.Permissions.GrantTypes.Password,
+                     OpenIddictConstants.Permissions.GrantTypes.RefreshToken, // 【2. 新增】显式授权刷新令牌权限
+                     OpenIddictConstants.Permissions.Scopes.Email,
+                     OpenIddictConstants.Permissions.Scopes.Profile,
+                     OpenIddictConstants.Permissions.Scopes.Roles,
+                     "RRbacV1"
                 },
-                scopes: commonScopes, // 复用公共scope（和原有客户端保持一致）
-                redirectUri: null, // 密码模式无需重定向地址
+                scopes: commonScopes,
+                // 注意：在某些 ABP 封装版本中，可能还需要显式设置 AllowOfflineAccess
+                redirectUri: null,
                 clientUri: null
             );
         }

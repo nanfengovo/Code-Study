@@ -65,3 +65,5 @@
                 clientUri: null
             );
 ```
+
+### 配置CORS
