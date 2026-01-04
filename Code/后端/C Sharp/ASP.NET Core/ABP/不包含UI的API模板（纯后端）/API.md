@@ -46,6 +46,39 @@ await CreateApplicationAsync(
 ```
 ![[bb7cf808179e470c8afcf17d00f0e7c.png]]
 
+## 配置刷新Token的机制
+```
+            // 新增支持密码模式的客户端（修正后）
+            await CreateApplicationAsync(
+                name: "RRbacV1_Password",
+                type: OpenIddictConstants.ClientTypes.Public,
+                consentType: OpenIddictConstants.ConsentTypes.Implicit,
+                displayName: "Password Grant Client",
+                secret: null,
+                grantTypes: new List<string>
+                {
+                     OpenIddictConstants.GrantTypes.Password,
+                     OpenIddictConstants.GrantTypes.RefreshToken // 【1. 新增】允许刷新令牌模式
+                },
+                permissions: new List<string>
+                {
+                     OpenIddictConstants.Permissions.Endpoints.Token,
+                     OpenIddictConstants.Permissions.GrantTypes.Password,
+                     OpenIddictConstants.Permissions.GrantTypes.RefreshToken, // 【2. 新增】显式授权刷新令牌权限
+                     OpenIddictConstants.Permissions.Scopes.Email,
+                     OpenIddictConstants.Permissions.Scopes.Profile,
+                     OpenIddictConstants.Permissions.Scopes.Roles,
+                     "RRbacV1"
+                },
+                scopes: commonScopes,
+                // 注意：在某些 ABP 封装版本中，可能还需要显式设置 AllowOfflineAccess
+                redirectUri: null,
+                clientUri: null
+            );
+
+```
+![[Pasted image 20260104225104.png]]
+![[Pasted image 20260104225136.png]]
 # 基于RBAC的权限管理
 权限：
 		获取指定组的指定关键字的权限 ([get] /api/permission-management/permissions)

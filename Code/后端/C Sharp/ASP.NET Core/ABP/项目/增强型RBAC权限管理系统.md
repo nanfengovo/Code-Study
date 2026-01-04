@@ -66,4 +66,73 @@
             );
 ```
 
+### 配置刷新Token的机制
+```
+            // 新增支持密码模式的客户端（修正后）
+            await CreateApplicationAsync(
+                name: "RRbacV1_Password",
+                type: OpenIddictConstants.ClientTypes.Public,
+                consentType: OpenIddictConstants.ConsentTypes.Implicit,
+                displayName: "Password Grant Client",
+                secret: null,
+                grantTypes: new List<string>
+                {
+                     OpenIddictConstants.GrantTypes.Password,
+                     OpenIddictConstants.GrantTypes.RefreshToken // 【1. 新增】允许刷新令牌模式
+                },
+                permissions: new List<string>
+                {
+                     OpenIddictConstants.Permissions.Endpoints.Token,
+                     OpenIddictConstants.Permissions.GrantTypes.Password,
+                     OpenIddictConstants.Permissions.GrantTypes.RefreshToken, // 【2. 新增】显式授权刷新令牌权限
+                     OpenIddictConstants.Permissions.Scopes.Email,
+                     OpenIddictConstants.Permissions.Scopes.Profile,
+                     OpenIddictConstants.Permissions.Scopes.Roles,
+                     "RRbacV1"
+                },
+                scopes: commonScopes,
+                // 注意：在某些 ABP 封装版本中，可能还需要显式设置 AllowOfflineAccess
+                redirectUri: null,
+                clientUri: null
+            );
+```
+
 ### 配置CORS
+```
+{
+  "ConnectionStrings": {
+    "Default": "Server=.;Database=OMSV1.0;User Id=sa;Password=aaaa2624434145;Encrypt=True;TrustServerCertificate=True"
+  },
+  "OpenIddict": {
+    "Applications": {
+      "RbacV1_Swagger": {
+        "ClientId": "RbacV1_Swagger",
+        "RootUrl": "https://localhost:44376"
+      }
+    }
+  }
+}
+
+```
+
+```
+private void ConfigureCors(ServiceConfigurationContext context, IConfiguration configuration)
+{
+    context.Services.AddCors(options =>
+    {
+        options.AddDefaultPolicy(builder =>
+        {
+            builder
+                .WithOrigins(configuration["App:CorsOrigins"]?
+                    .Split(",", StringSplitOptions.RemoveEmptyEntries)
+                    .Select(o => o.RemovePostFix("/"))
+                    .ToArray() ?? Array.Empty<string>())
+                .WithAbpExposedHeaders()
+                .SetIsOriginAllowedToAllowWildcardSubdomains()
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .AllowCredentials();
+        });
+    });
+}
+```
