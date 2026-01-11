@@ -101,3 +101,26 @@ git reset --hard 版本号  # 谨慎使用！会删除后续所有修改
 git fetch --all
 git reset --hard origin/main
 ```
+
+#### 场景6：取消git代理配置
+``` bash
+# 取消 HTTP 代理
+git config --global --unset http.proxy
+
+# 取消 HTTPS 代理
+git config --global --unset https.proxy
+```
+
+##### 验证是否重置成功
+```bash
+git config --global --list
+```
+
+#### 场景7：设置新的git代理
+```bash
+# 设置 HTTP 代理
+git config --global http.proxy http://127.0.0.1:7897
+
+# 设置 HTTPS 代理
+git config --global https.proxy http://127.0.0.1:7897
+```
