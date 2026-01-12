@@ -25,14 +25,12 @@
             "id": "69f45d00116854c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "AI/工具.md",
-                "mode": "source",
-                "source": false
+                "file": "前端/Vue/Vue3/笔记/Vue3快速上手.pdf"
               },
-              "icon": "lucide-file",
-              "title": "工具"
+              "icon": "lucide-file-text",
+              "title": "Vue3快速上手"
             }
           }
         ],
@@ -170,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/工具.md",
+                "file": "前端/未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工具 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -197,27 +195,33 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "69f45d00116854c1",
+  "active": "6c62472a3e3548d8",
   "lastOpenFiles": [
-    "AI/学习资料.md",
+    "前端/React",
+    "前端/Vue/Vue3/笔记/Vue3快速上手.pdf",
+    "前端/未命名.canvas",
+    "图片/bb7cf808179e470c8afcf17d00f0e7c.png",
+    "图片/Pasted image 20251202204749.png",
+    "图片/61d34f98c9e387725bbd3e56674b7ee.png",
+    "后端/C Sharp/ASP.NET Core/ABP/项目/不包含UI的API模板（纯后端）/API.md",
+    "后端/C Sharp/ASP.NET Core/ABP/项目/增强型RBAC权限管理系统.md",
+    "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/ABP_Admin +soybean-abp-admin.md",
+    "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System",
     "AI/工具.md",
+    "后端/C Sharp/Project",
+    "AI/学习资料.md",
     "工具/包管理器/npm.md",
     "AI",
     "工具/Docker",
     "工具/Git/git.md",
     "工具/包管理器",
-    "后端/C Sharp/ASP.NET Core/ABP/不包含UI的API模板（纯后端）/API.md",
-    "后端/C Sharp/ASP.NET Core/ABP/项目/增强型RBAC权限管理系统.md",
     "图片/Pasted image 20260104225136.png",
     "图片/Pasted image 20260104225104.png",
     "前端/Vue/Vue3/快速开发框架/Soybean admin 使用.md",
     "前端/Vue/Vue3/快速开发框架",
     "后端/C Sharp/ASP.NET Core/ABP/项目",
-    "图片/bb7cf808179e470c8afcf17d00f0e7c.png",
-    "图片/61d34f98c9e387725bbd3e56674b7ee.png",
     "前端/基础/笔记/CSS2笔记.pdf",
-    "后端/C Sharp/ASP.NET Core/ABP/不包含UI的API模板（纯后端）",
-    "后端/C Sharp/ASP.NET Core/ABP",
+    "后端/C Sharp/ASP.NET Core/ABP/项目/不包含UI的API模板（纯后端）",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
@@ -225,14 +229,11 @@
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/Entity Framework Core.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/LINQ--让数据处理变得简单.md",
     "前端/基础/HTML+CSS.md",
-    "前端/基础/笔记/HTML4笔记.pdf",
-    "前端/基础/笔记/HTML5笔记.pdf",
     "前端/Vue/uniapp/未命名.md",
     "后端/C Sharp/AI+.NET/1.1 调用AI接口.md",
     "后端/C Sharp/AI+.NET/1.0 基础概念.md",
     "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
     "后端/C Sharp/ASP.NET Core/知名类库/Identity/1.1 实现基于角色的访问控制（RBAC）.md",
-    "图片/Pasted image 20251202204749.png",
     "图片/Pasted image 20251202205214.png",
     "欢迎.md"
   ]
