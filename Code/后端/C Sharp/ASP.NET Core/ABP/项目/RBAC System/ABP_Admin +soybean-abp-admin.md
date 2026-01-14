@@ -77,6 +77,7 @@ if (File.Exists(applicationPath))
     options.IncludeXmlComments(applicationPath);
 }
 ```
+![[Pasted image 20260114235324.png]]
 ## 4、配置CORS
 ```C#
 {
@@ -99,6 +100,13 @@ if (File.Exists(applicationPath))
 }
 
 ```
+
+# 改造前端
+>  换登录页的logo和名字；去掉验证码登录，注册账号和其他账号登录；实现对接后端接口登录和Token的无感刷新
+
+## 1、换登录页的logo和名字
+
+
 # 后端
 ## 接口
 > base url: https://localhost:44371
