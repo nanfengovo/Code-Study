@@ -25,12 +25,14 @@
             "id": "69f45d00116854c1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "前端/Vue/Vue3/笔记/Vue3快速上手.pdf"
+                "file": "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/ABP_Admin +soybean-abp-admin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Vue3快速上手"
+              "icon": "lucide-file",
+              "title": "ABP_Admin +soybean-abp-admin"
             }
           }
         ],
@@ -168,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/未命名.canvas",
+                "file": "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/ABP_Admin +soybean-abp-admin.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "ABP_Admin +soybean-abp-admin 的大纲"
             }
           }
         ],
@@ -186,19 +188,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "6c62472a3e3548d8",
+  "active": "69f45d00116854c1",
   "lastOpenFiles": [
-    "前端/React",
+    "工具/Git/git.md",
     "前端/Vue/Vue3/笔记/Vue3快速上手.pdf",
+    "前端/React",
     "前端/未命名.canvas",
     "图片/bb7cf808179e470c8afcf17d00f0e7c.png",
     "图片/Pasted image 20251202204749.png",
@@ -213,7 +216,6 @@
     "工具/包管理器/npm.md",
     "AI",
     "工具/Docker",
-    "工具/Git/git.md",
     "工具/包管理器",
     "图片/Pasted image 20260104225136.png",
     "图片/Pasted image 20260104225104.png",
@@ -221,7 +223,6 @@
     "前端/Vue/Vue3/快速开发框架",
     "后端/C Sharp/ASP.NET Core/ABP/项目",
     "前端/基础/笔记/CSS2笔记.pdf",
-    "后端/C Sharp/ASP.NET Core/ABP/项目/不包含UI的API模板（纯后端）",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
