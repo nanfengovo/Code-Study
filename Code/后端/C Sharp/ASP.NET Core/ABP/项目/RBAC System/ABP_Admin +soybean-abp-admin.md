@@ -1,3 +1,104 @@
+# 改造后端
+> 配置支持密码的鉴权验证和刷新Token,不验证防伪令牌，接口注释,配置Cors
+
+## 1、配置不验证防伪令牌
+在ABP_AdminHttpApiHostModule.cs的ConfigureServices方法中添加
+```c#
+Configure<AbpAntiForgeryOptions>(options =>
+{
+    options.TokenCookie.Expiration = TimeSpan.Zero;
+    options.AutoValidate = false; //表示不验证防伪令牌
+                                  //options.AutoValidateIgnoredHttpMethods.Remove("GET");
+                                  //options.AutoValidateFilter =
+                                  //    type => !type.Namespace.StartsWith("MyProject.MyIgnoredNamespace");
+});
+```
+## 2、配置支持密码的鉴权验证和刷新Token
+在OpenIddictDataSeedContributor .cs的CreateApplicationsAsync方法中
+```c#
+ // 新增支持密码模式的客户端（修正后）
+ await CreateApplicationAsync(
+     name: "ABP_Admin_Password",
+     type: OpenIddictConstants.ClientTypes.Public,
+     consentType: OpenIddictConstants.ConsentTypes.Implicit,
+     displayName: "Password Grant Client",
+     secret: null,
+     grantTypes: new List<string>
+     {
+              OpenIddictConstants.GrantTypes.Password,
+              OpenIddictConstants.GrantTypes.RefreshToken // 【1. 新增】允许刷新令牌模式
+     },
+     permissions: new List<string>
+     {
+              OpenIddictConstants.Permissions.Endpoints.Token,
+              OpenIddictConstants.Permissions.GrantTypes.Password,
+              OpenIddictConstants.Permissions.GrantTypes.RefreshToken, // 【2. 新增】显式授权刷新令牌权限
+              OpenIddictConstants.Permissions.Scopes.Email,
+              OpenIddictConstants.Permissions.Scopes.Profile,
+              OpenIddictConstants.Permissions.Scopes.Roles,
+              "ABP_Admin"
+     },
+     scopes: commonScopes,
+     // 注意：在某些 ABP 封装版本中，可能还需要显式设置 AllowOfflineAccess
+     redirectUri: null,
+     clientUri: null
+ );
+```
+## 3、添加接口注释功能
+ABP_Admin.Application层，ABP_Admin.Application.Contracts层，ABP_Admin.HttpApi.Host层的 PropertyGroup中添加
+```c#
+  <PropertyGroup>
+	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+
+```
+
+ABP_AdminHttpApiHostModule.cs的ConfigureSwaggerServices方法中添加
+```c#
+// 1. ���� Host ��Ŀ������ע�ͣ�ͨ������ Controller��
+var hostXml = $"{typeof(ABP_AdminHttpApiHostModule).Assembly.GetName().Name}.xml";
+var hostPath = Path.Combine(AppContext.BaseDirectory, hostXml);
+if (File.Exists(hostPath)) options.IncludeXmlComments(hostPath);
+
+// 2. ���� Application.Contracts ��Ŀ��ע�ͣ������ӿں� DTO ������
+var contractsXml = "ABP_Admin.Application.Contracts.xml";
+var contractsPath = Path.Combine(AppContext.BaseDirectory, contractsXml);
+if (File.Exists(contractsPath))
+{
+    options.IncludeXmlComments(contractsPath);
+}
+
+// 3. ���� Application ��Ŀ��ע�ͣ�ʵ�����ע�ͣ�
+var applicationXml = "ABP_Admin.Application.xml";
+var applicationPath = Path.Combine(AppContext.BaseDirectory, applicationXml);
+if (File.Exists(applicationPath))
+{
+    options.IncludeXmlComments(applicationPath);
+}
+```
+## 4、配置CORS
+```C#
+{
+  "App": {
+    "SelfUrl": "https://localhost:44371",
+    "CorsOrigins": "http://localhost:9527",
+    "RedirectAllowedUrls": ""
+  },
+  "ConnectionStrings": {
+    "Default": "Server=.;Database=ABP-Admin;User Id=sa;Password=Abcd,1234;Encrypt=True;TrustServerCertificate=True;"
+  },
+  "AuthServer": {
+    "Authority": "https://localhost:44371",
+    "RequireHttpsMetadata": false,
+    "SwaggerClientId": "ABP_Admin_Swagger"
+  },
+  "StringEncryption": {
+    "DefaultPassPhrase": "IYyXZrz9jCBhGfSQ"
+  }
+}
+
+```
 # 后端
 ## 接口
 > base url: https://localhost:44371
@@ -173,3 +274,4 @@ Body: Content-Type: application/json
 
 }
 ```
+
