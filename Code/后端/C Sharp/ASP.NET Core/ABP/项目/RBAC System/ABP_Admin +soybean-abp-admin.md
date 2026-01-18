@@ -110,6 +110,43 @@ if (File.Exists(applicationPath))
 ### Soybeanadmin原来的登录流程
 ![[Untitled Diagram.svg]]
 这里不用Login改用鉴权的接口
+### 前端对接鉴权接口
+![[Pasted image 20260118140719.png]]
+
+#### 安装qs
+> pnpm install qs
+
+```TS
+export function fetchLogin(userName: string, password: string) {
+
+  return request<Api.Auth.LoginToken>({
+
+    url: '/connect/token',
+
+    method: 'post',
+
+    data: qs.stringify({
+
+      grant_type: 'password',
+
+      client_id: 'ABP_Admin_Password',
+
+      scope: 'ABP_Admin offline_access',
+
+      username: userName,
+
+      password: password
+
+    }),headers:{
+
+      'Content-Type': 'application/x-www-form-urlencoded'
+
+    }
+
+  });
+
+}
+```
 ![[后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/Untitled Diagram.svg]]
 # 后端
 ## 接口
