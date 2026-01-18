@@ -107,8 +107,10 @@ if (File.Exists(applicationPath))
 ## 1、换登录页的logo和名字
 ## 2、去掉验证码登录注册账号和其他账号登录
 ## 3、实现对接后端接口登录和Token的无感刷新
-
-
+### Soybeanadmin原来的登录流程
+![[Untitled Diagram.svg]]
+这里不用Login改用鉴权的接口
+![[后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/Untitled Diagram.svg]]
 # 后端
 ## 接口
 > base url: https://localhost:44371
@@ -285,3 +287,4 @@ Body: Content-Type: application/json
 }
 ```
 
+[^1]: 
