@@ -42,3 +42,7 @@ app.use(ElementPlus)
 
 app.mount('#app')
 ```
+
+## 设置暗黑模式
+![[Pasted image 20260119210247.png]]
+![[Pasted image 20260119210305.png]]
