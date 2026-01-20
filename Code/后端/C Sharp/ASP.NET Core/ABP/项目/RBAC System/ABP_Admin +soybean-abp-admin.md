@@ -148,6 +148,7 @@ export function fetchLogin(userName: string, password: string) {
 }
 ```
 ![[后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/Untitled Diagram.svg]]
+
 # 后端
 ## 接口
 > base url: https://localhost:44371
@@ -325,3 +326,1035 @@ Body: Content-Type: application/json
 ```
 
 [^1]: 
+
+## 权限管理模块
+### 1、 根据角色/用户获取权限
+> 地址：/api/permission-management/permissions
+> 请求类型：get
+
+#### 请求示例
+Params:
+
+| 参数名          | 值     | 类型     | 备注       |
+| ------------ | ----- | ------ | -------- |
+| providerName | R     | string | 根据角色还是用户 |
+| providerKey  | admin | string | 角色名/用户名  |
+#### 状态码
+> 200
+
+#### 响应示例
+```json
+{
+
+    "entityDisplayName": "admin",
+
+    "groups": [
+
+        {
+
+            "name": "AbpIdentity",
+
+            "displayName": "Identity management",
+
+            "displayNameKey": "Permission:IdentityManagement",
+
+            "displayNameResource": "AbpIdentity",
+
+            "permissions": [
+
+                {
+
+                    "name": "AbpIdentity.Roles",
+
+                    "displayName": "Role management",
+
+                    "parentName": null,
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Roles.Create",
+
+                    "displayName": "Create",
+
+                    "parentName": "AbpIdentity.Roles",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Roles.Update",
+
+                    "displayName": "Edit",
+
+                    "parentName": "AbpIdentity.Roles",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Roles.Delete",
+
+                    "displayName": "Delete",
+
+                    "parentName": "AbpIdentity.Roles",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Roles.ManagePermissions",
+
+                    "displayName": "Change permissions",
+
+                    "parentName": "AbpIdentity.Roles",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Users",
+
+                    "displayName": "User management",
+
+                    "parentName": null,
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Users.Create",
+
+                    "displayName": "Create",
+
+                    "parentName": "AbpIdentity.Users",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Users.Update",
+
+                    "displayName": "Edit",
+
+                    "parentName": "AbpIdentity.Users",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Users.Update.ManageRoles",
+
+                    "displayName": "Manage roles",
+
+                    "parentName": "AbpIdentity.Users.Update",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Users.Delete",
+
+                    "displayName": "Delete",
+
+                    "parentName": "AbpIdentity.Users",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpIdentity.Users.ManagePermissions",
+
+                    "displayName": "Change permissions",
+
+                    "parentName": "AbpIdentity.Users",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                }
+
+            ]
+
+        },
+
+        {
+
+            "name": "FeatureManagement",
+
+            "displayName": "Feature management",
+
+            "displayNameKey": "Permission:FeatureManagement",
+
+            "displayNameResource": "AbpFeatureManagement",
+
+            "permissions": [
+
+                {
+
+                    "name": "FeatureManagement.ManageHostFeatures",
+
+                    "displayName": "Manage host features",
+
+                    "parentName": null,
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                }
+
+            ]
+
+        },
+
+        {
+
+            "name": "SettingManagement",
+
+            "displayName": "Setting management",
+
+            "displayNameKey": "Permission:SettingManagement",
+
+            "displayNameResource": "AbpSettingManagement",
+
+            "permissions": [
+
+                {
+
+                    "name": "SettingManagement.Emailing",
+
+                    "displayName": "Emailing",
+
+                    "parentName": null,
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "SettingManagement.Emailing.Test",
+
+                    "displayName": "Emailing test",
+
+                    "parentName": "SettingManagement.Emailing",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "SettingManagement.TimeZone",
+
+                    "displayName": "Time zone",
+
+                    "parentName": null,
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                }
+
+            ]
+
+        },
+
+        {
+
+            "name": "AbpTenantManagement",
+
+            "displayName": "Tenant management",
+
+            "displayNameKey": "Permission:TenantManagement",
+
+            "displayNameResource": "AbpTenantManagement",
+
+            "permissions": [
+
+                {
+
+                    "name": "AbpTenantManagement.Tenants",
+
+                    "displayName": "Tenant management",
+
+                    "parentName": null,
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpTenantManagement.Tenants.Create",
+
+                    "displayName": "Create",
+
+                    "parentName": "AbpTenantManagement.Tenants",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpTenantManagement.Tenants.Update",
+
+                    "displayName": "Edit",
+
+                    "parentName": "AbpTenantManagement.Tenants",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpTenantManagement.Tenants.Delete",
+
+                    "displayName": "Delete",
+
+                    "parentName": "AbpTenantManagement.Tenants",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpTenantManagement.Tenants.ManageFeatures",
+
+                    "displayName": "Manage features",
+
+                    "parentName": "AbpTenantManagement.Tenants",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                },
+
+                {
+
+                    "name": "AbpTenantManagement.Tenants.ManageConnectionStrings",
+
+                    "displayName": "Manage connection strings",
+
+                    "parentName": "AbpTenantManagement.Tenants",
+
+                    "isGranted": true,
+
+                    "allowedProviders": [],
+
+                    "grantedProviders": [
+
+                        {
+
+                            "providerName": "R",
+
+                            "providerKey": "admin"
+
+                        }
+
+                    ]
+
+                }
+
+            ]
+
+        }
+
+    ]
+
+}
+```
+
+### 2、更新用户/角色权限
+#### 请求示例
+>  地址：/api/permission-management/permissions
+>  put 请求
+
+Params:
+
+| 参数名          |     | 参数值   | 类型     | 备注      |
+| ------------ | --- | ----- | ------ | ------- |
+| providerName |     | R     | string | 角色/用户   |
+| providerKey  |     | admin | string | 角色名/用户名 |
+body
+```json
+{
+
+  "permissions": [
+
+    {
+
+      "name": "AbpIdentity.Users.Create",
+
+      "isGranted": true
+
+    }
+
+  ]
+
+}
+```
+
+####  响应码
+> 204
+
+#### 响应示例
+null
+
+## 角色管理模块
+### 1、获取所有角色
+> 地址：/api/identity/roles/all
+> 请求类型：get
+
+#### 请求示例
+null
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+
+    "items": [
+
+        {
+
+            "name": "admin",
+
+            "isDefault": false,
+
+            "isStatic": true,
+
+            "isPublic": true,
+
+            "concurrencyStamp": "7480098245c94df3838a37053ca19cd2",
+
+            "id": "65fd416c-320a-a079-9bfd-3a1ebf8149e3",
+
+            "extraProperties": {}
+
+        }
+
+    ]
+
+}
+```
+
+### 2、条件查询获取角色
+> 地址：/api/identity/roles
+> 请求方式：get
+#### 请求示例
+
+| 参数              | 值   |
+| --------------- | --- |
+| additionalProp1 |     |
+| additionalProp2 |     |
+| additionalProp3 |     |
+
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+
+    "totalCount": 1,
+
+    "items": [
+
+        {
+
+            "name": "admin",
+
+            "isDefault": false,
+
+            "isStatic": true,
+
+            "isPublic": true,
+
+            "concurrencyStamp": "7480098245c94df3838a37053ca19cd2",
+
+            "id": "65fd416c-320a-a079-9bfd-3a1ebf8149e3",
+
+            "extraProperties": {}
+
+        }
+
+    ]
+
+}
+```
+
+### 3、添加角色
+> 地址：/api/identity/roles
+> 请求方式：post
+
+#### 请求示例
+```json
+{
+
+  "name": "Vister",
+
+  "isDefault": true,
+
+  "isPublic": true
+
+}
+```
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+
+    "name": "Vister",
+
+    "isDefault": true,
+
+    "isStatic": false,
+
+    "isPublic": true,
+
+    "concurrencyStamp": "993c83abf4f346faa8219f3c963f0bac",
+
+    "id": "8513c362-abf3-0ab4-c91f-3a1eee3246ae",
+
+    "extraProperties": {}
+
+}
+```
+
+### 4、根据角色id查询角色信息
+> 地址：/api/identity/roles/{id}
+> 请求类型：get
+
+#### 请求示例
+null
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+
+    "name": "admin",
+
+    "isDefault": false,
+
+    "isStatic": true,
+
+    "isPublic": true,
+
+    "concurrencyStamp": "7480098245c94df3838a37053ca19cd2",
+
+    "id": "65fd416c-320a-a079-9bfd-3a1ebf8149e3",
+
+    "extraProperties": {}
+
+}
+```
+
+### 5、修改指定id的角色
+> 地址：/api/identity/roles/{id}
+> 请求方式：put
+
+#### 请求示例
+```json
+{
+
+  "name": "User",
+
+  "isDefault": true,
+
+  "isPublic": true,
+
+  "concurrencyStamp": "993c83abf4f346faa8219f3c963f0bac"
+
+}
+```
+
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+  "name": "User",
+  "isDefault": true,
+  "isStatic": false,
+  "isPublic": true,
+  "concurrencyStamp": "052ebb994d4a4c8bb1e861f3197bf085",
+  "id": "8513c362-abf3-0ab4-c91f-3a1eee3246ae",
+  "extraProperties": {}
+}
+```
+
+### 6、删除指定ID的角色
+> 地址：/api/identity/roles/{id}
+> 请求类型：delete
+
+#### 请求示例
+null
+#### 响应码
+> 204
+
+#### 响应示例
+null
+
+## 用户管理模块
+### 1、根据用户id获取用户信息
+> 地址：/api/identity/users/{id}
+> 请求类型： get
+
+#### 请求示例
+null
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+
+    "tenantId": null,
+
+    "userName": "admin",
+
+    "name": "admin",
+
+    "surname": null,
+
+    "email": "admin@abp.io",
+
+    "emailConfirmed": false,
+
+    "phoneNumber": null,
+
+    "phoneNumberConfirmed": false,
+
+    "isActive": true,
+
+    "lockoutEnabled": true,
+
+    "accessFailedCount": 0,
+
+    "lockoutEnd": null,
+
+    "concurrencyStamp": "79a6a0901d474555a2b2a4b3d9627dc8",
+
+    "entityVersion": 2,
+
+    "lastPasswordChangeTime": "2026-01-11T13:52:30.9291709+00:00",
+
+    "isDeleted": false,
+
+    "deleterId": null,
+
+    "deletionTime": null,
+
+    "lastModificationTime": "2026-01-11T21:52:31.4039186",
+
+    "lastModifierId": null,
+
+    "creationTime": "2026-01-11T21:52:31.0299936",
+
+    "creatorId": null,
+
+    "id": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+
+    "extraProperties": {}
+
+}
+```
+
+### 2、修改指定id的用户
+### 3、删除指定ID的用户
+### 4、筛选获取指定条件的用户
+### 5、新增用户
+> 地址 ：/api/identity/users
+> 请求方式: post
+
+#### 请求示例
+```json
+{
+
+  "userName": "test",
+
+  "name": "test",
+
+  "surname": "t",
+
+  "email": "user@example.com",
+
+  "phoneNumber": "string",
+
+  "isActive": true,
+
+  "lockoutEnabled": true,
+
+  "roleNames": [
+
+    "admin"
+
+  ],
+
+  "password": "1q2w3E*"
+
+}
+```
+#### 响应体
+> 200
+#### 响应示例
+```json
+{
+
+    "tenantId": null,
+
+    "userName": "test",
+
+    "name": "test",
+
+    "surname": "t",
+
+    "email": "user@example.com",
+
+    "emailConfirmed": false,
+
+    "phoneNumber": "string",
+
+    "phoneNumberConfirmed": false,
+
+    "isActive": true,
+
+    "lockoutEnabled": true,
+
+    "accessFailedCount": 0,
+
+    "lockoutEnd": null,
+
+    "concurrencyStamp": "9afe2d6cae674a689d2bebf9d57fd1d6",
+
+    "entityVersion": 4,
+
+    "lastPasswordChangeTime": "2026-01-20T16:12:19.4988448+00:00",
+
+    "isDeleted": false,
+
+    "deleterId": null,
+
+    "deletionTime": null,
+
+    "lastModificationTime": "2026-01-21T00:12:19.8004103+08:00",
+
+    "lastModifierId": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+
+    "creationTime": "2026-01-21T00:12:19.51983+08:00",
+
+    "creatorId": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+
+    "id": "8322a2c2-ca9e-d888-1d57-3a1eee5a844b",
+
+    "extraProperties": {}
+
+}
+```
