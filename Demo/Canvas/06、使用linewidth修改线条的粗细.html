@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用linewidth修改线条的粗细</title>
+</head>
+<body>
+    <script>
+        const canvas = document.createElement('canvas');
+        canvas.width = 600;
+        canvas.height = 400;
+        document.body.append(canvas);
+        const context = canvas.getContext('2d');
+        context.moveTo(100,100);
+        context.lineTo(300,100);
+        //设置线的宽度
+        context.lineWidth = 10;
+        context.stroke();
+        context.moveTo(400,200);
+        context.lineTo(500,300);
+        context.lineWidth = 200;
+        context.stroke();
+    </script>
+</body>
+</html>
