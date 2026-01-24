@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas</title>
+</head>
+<body>
+    <canvas id="canvas" width="600" height="400"></canvas>
+    <script>
+        //1、获取canvas 标签
+        const canvas = document.getElementById('canvas');
+        // 2、获取context （画笔） 对象
+        const context = canvas.getContext('2d');
+        // 3、 画出自己想要的图
+        //画一个方形 有专门的api fillRect(x,y,width,height)
+        context.fillRect(100,100,200,200)
+    </script>
+</body>
+</html>

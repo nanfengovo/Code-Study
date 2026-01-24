@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "40ed2576aab0c7b8",
@@ -185,6 +186,9 @@
   },
   "active": "e8ae8be2d5d47704",
   "lastOpenFiles": [
+    "Pasted image 20260125004008.png",
+    "Pasted image 20260124221615.png",
+    "Pasted image 20260124221612.png",
     "前端/Vue/Vue3/Project/AGV-MAP/AGV-Map.md",
     "前端/画图/Cavnas/Canvas 学习.md",
     "前端/画图/Cavnas",
@@ -211,14 +215,12 @@
     "前端/未命名.canvas",
     "图片/bb7cf808179e470c8afcf17d00f0e7c.png",
     "图片/Pasted image 20251202204749.png",
-    "图片/61d34f98c9e387725bbd3e56674b7ee.png",
     "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System",
     "AI/工具.md",
     "后端/C Sharp/Project",
     "AI/学习资料.md",
     "工具/包管理器/npm.md",
     "AI",
-    "图片/Pasted image 20260104225136.png",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
@@ -230,7 +232,6 @@
     "后端/C Sharp/AI+.NET/1.1 调用AI接口.md",
     "后端/C Sharp/AI+.NET/1.0 基础概念.md",
     "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
-    "后端/C Sharp/ASP.NET Core/知名类库/Identity/1.1 实现基于角色的访问控制（RBAC）.md",
-    "欢迎.md"
+    "后端/C Sharp/ASP.NET Core/知名类库/Identity/1.1 实现基于角色的访问控制（RBAC）.md"
   ]
 }

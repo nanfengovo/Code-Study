@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas的宽高度的设置</title>
+</head>
+<body>
+    <script>
+        const canvas = document.createElement('canvas');
+        const context = canvas.getContext('2d');
+        //设置宽高
+        canvas.width = 600;
+        canvas.height = 400;
+        document.body.append(canvas);
+        context.fillRect(100,100,100,100);
+
+        moveTo(100,100);
+        lineTo(200,200);
+        context.stroke();
+    </script>
+    <style>
+    </style>
+</body>
+</html>
