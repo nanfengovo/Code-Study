@@ -1268,8 +1268,142 @@ null
 ```
 
 ### 2、修改指定id的用户
+> 地址：/api/identity/users/8322A2C2-CA9E-D888-1D57-3A1EEE5A844B
+> 请求方式：put
+
+#### 请求示例
+```json
+{
+  "userName": "test",
+  "name": "t",
+  "surname": "t",
+  "email": "user@example.com",
+  "phoneNumber": "",
+  "isActive": true,
+  "lockoutEnabled": true,
+  "roleNames": [
+    "Test"
+  ],
+  "password": "1q2w3E*",
+  "concurrencyStamp": ""
+}
+```
+
+#### 响应码
+> 200
+
+#### 响应体
+```json
+{
+  "tenantId": null,
+  "userName": "test",
+  "name": "t",
+  "surname": "t",
+  "email": "user@example.com",
+  "emailConfirmed": false,
+  "phoneNumber": "",
+  "phoneNumberConfirmed": false,
+  "isActive": true,
+  "lockoutEnabled": true,
+  "accessFailedCount": 0,
+  "lockoutEnd": null,
+  "concurrencyStamp": "e5356185c06349ad8da482f8526701b3",
+  "entityVersion": 14,
+  "lastPasswordChangeTime": "2026-01-26T14:44:53.4079034+00:00",
+  "isDeleted": false,
+  "deleterId": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+  "deletionTime": "2026-01-26T22:33:34.6151513",
+  "lastModificationTime": "2026-01-26T22:44:53.439556+08:00",
+  "lastModifierId": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+  "creationTime": "2026-01-21T00:12:19.51983",
+  "creatorId": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+  "id": "8322a2c2-ca9e-d888-1d57-3a1eee5a844b",
+  "extraProperties": {}
+}
+```
 ### 3、删除指定ID的用户
+> 地址：/api/identity/users/8322A2C2-CA9E-D888-1D57-3A1EEE5A844B
+> 请求方式：delete
+
+#### 请求示例
+![[Pasted image 20260126223437.png]]
+
+#### 响应码
+> 204
+
+#### 响应示例
+null
+
+
 ### 4、筛选获取指定条件的用户
+> 地址：/api/identity/users?additionalProp1=string&additionalProp2=string&additionalProp3=string
+> 请求方式：get
+#### 请求示例
+> https://localhost:44371/api/identity/users?additionalProp1=string&additionalProp2=string&additionalProp3=string
+
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+  "totalCount": 2,
+  "items": [
+    {
+      "tenantId": null,
+      "userName": "admin",
+      "name": "admin",
+      "surname": null,
+      "email": "admin@abp.io",
+      "emailConfirmed": false,
+      "phoneNumber": null,
+      "phoneNumberConfirmed": false,
+      "isActive": true,
+      "lockoutEnabled": true,
+      "accessFailedCount": 0,
+      "lockoutEnd": null,
+      "concurrencyStamp": "79a6a0901d474555a2b2a4b3d9627dc8",
+      "entityVersion": 2,
+      "lastPasswordChangeTime": "2026-01-11T13:52:30.9291709+00:00",
+      "isDeleted": false,
+      "deleterId": null,
+      "deletionTime": null,
+      "lastModificationTime": "2026-01-11T21:52:31.4039186",
+      "lastModifierId": null,
+      "creationTime": "2026-01-11T21:52:31.0299936",
+      "creatorId": null,
+      "id": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+      "extraProperties": {}
+    },
+    {
+      "tenantId": null,
+      "userName": "test",
+      "name": "test",
+      "surname": "t",
+      "email": "user@example.com",
+      "emailConfirmed": false,
+      "phoneNumber": "string",
+      "phoneNumberConfirmed": false,
+      "isActive": true,
+      "lockoutEnabled": true,
+      "accessFailedCount": 0,
+      "lockoutEnd": null,
+      "concurrencyStamp": "9afe2d6cae674a689d2bebf9d57fd1d6",
+      "entityVersion": 4,
+      "lastPasswordChangeTime": "2026-01-20T16:12:19.4988448+00:00",
+      "isDeleted": false,
+      "deleterId": null,
+      "deletionTime": null,
+      "lastModificationTime": "2026-01-21T00:12:19.8004103",
+      "lastModifierId": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+      "creationTime": "2026-01-21T00:12:19.51983",
+      "creatorId": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+      "id": "8322a2c2-ca9e-d888-1d57-3a1eee5a844b",
+      "extraProperties": {}
+    }
+  ]
+}
+```
 ### 5、新增用户
 > 地址 ：/api/identity/users
 > 请求方式: post
@@ -1356,5 +1490,120 @@ null
 
     "extraProperties": {}
 
+}
+```
+### 6、根据用户id获取该用户被分配的角色
+> 地址：/api/identity/users/8322A2C2-CA9E-D888-1D57-3A1EEE5A844B/roles
+> 请求方式：get
+
+#### 请求示例
+null
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+  "items": [
+    {
+      "name": "Test",
+      "isDefault": true,
+      "isStatic": false,
+      "isPublic": true,
+      "concurrencyStamp": "e9a0b411732f4689869db1eceab8a86a",
+      "id": "93c80677-429c-6213-29e9-3a1eee304175",
+      "extraProperties": {}
+    }
+  ]
+}
+```
+### 7、给用户分配角色
+> 地址： /api/identity/users/8322A2C2-CA9E-D888-1D57-3A1EEE5A844B/roles
+> 方法：put
+
+#### 请求示例
+```json
+{
+  "roleNames": [
+    "Test","admin"
+  ]
+}
+```
+
+#### 响应码
+> 204
+
+#### 响应示例
+null
+### 8、获取可分配的角色
+> 地址：/api/identity/users/assignable-roles
+> 方法：get
+
+#### 请求示例
+null
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+  "items": [
+    {
+      "name": "admin",
+      "isDefault": false,
+      "isStatic": true,
+      "isPublic": true,
+      "concurrencyStamp": "c45c221da5c449b4b42cc6cb1b3937c0",
+      "id": "65fd416c-320a-a079-9bfd-3a1ebf8149e3",
+      "extraProperties": {}
+    },
+    {
+      "name": "Test",
+      "isDefault": true,
+      "isStatic": false,
+      "isPublic": true,
+      "concurrencyStamp": "e9a0b411732f4689869db1eceab8a86a",
+      "id": "93c80677-429c-6213-29e9-3a1eee304175",
+      "extraProperties": {}
+    }
+  ]
+}
+```
+### 9、根据用户名获取用户信息
+> 地址：/api/identity/users/by-username/admin
+> 方法：get
+
+#### 请求示例
+null
+#### 响应码
+> 200
+
+#### 响应示例
+```json
+{
+  "tenantId": null,
+  "userName": "admin",
+  "name": "admin",
+  "surname": null,
+  "email": "admin@abp.io",
+  "emailConfirmed": false,
+  "phoneNumber": null,
+  "phoneNumberConfirmed": false,
+  "isActive": true,
+  "lockoutEnabled": true,
+  "accessFailedCount": 0,
+  "lockoutEnd": null,
+  "concurrencyStamp": "79a6a0901d474555a2b2a4b3d9627dc8",
+  "entityVersion": 2,
+  "lastPasswordChangeTime": "2026-01-11T13:52:30.9291709+00:00",
+  "isDeleted": false,
+  "deleterId": null,
+  "deletionTime": null,
+  "lastModificationTime": "2026-01-11T21:52:31.4039186",
+  "lastModifierId": null,
+  "creationTime": "2026-01-11T21:52:31.0299936",
+  "creatorId": null,
+  "id": "7f85ae0a-ff5c-3f4c-5555-3a1ebf814835",
+  "extraProperties": {}
 }
 ```
