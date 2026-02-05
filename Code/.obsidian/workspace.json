@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/ABP_Admin +soybean-abp-admin.md",
+                "file": "后端/Python/学习Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ABP_Admin +soybean-abp-admin"
+              "title": "学习Python"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/ABP_Admin +soybean-abp-admin.md",
+                "file": "后端/Python/学习Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ABP_Admin +soybean-abp-admin 的大纲"
+              "title": "学习Python 的大纲"
             }
           }
         ],
@@ -182,20 +182,27 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c62472a3e3548d8",
+  "active": "27e82a86e0eba6a8",
   "lastOpenFiles": [
+    "AI/Agent.md",
+    "后端/Python/学习Python.md",
+    "后端/Python",
+    "AI/工具.md",
+    "AI/学习资料.md",
+    "后端/C Sharp/Project/RCS.md",
+    "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/ABP_Admin +soybean-abp-admin.md",
+    "后端/C Sharp/ASP.NET Core/ABP/项目/增强型RBAC权限管理系统.md",
+    "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/Untitled Diagram.svg",
     "图片/Pasted image 20260126223437.png",
     "前端/画图/Cavnas/Canvas 学习.md",
     "未命名.base",
     "未命名.canvas",
     "前端/Vue/Vue3/Project/AGV-MAP/AGV-Map.md",
     "图片/Pasted image 20260124221612.png",
-    "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/ABP_Admin +soybean-abp-admin.md",
     "图片/Pasted image 20260125004008.png",
     "图片/Pasted image 20260124221615.png",
     "前端/画图/Cavnas",
     "前端/画图",
-    "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/Untitled Diagram.svg",
     "前端/Vue/Vue3/Project/AGV-MAP",
     "前端/Vue/Vue3/Project",
     "后端/C Sharp/ASP.NET Core/ABP/项目/不包含UI的API模板（纯后端）/API.md",
@@ -206,7 +213,6 @@
     "图片/Pasted image 20260119210247.png",
     "图片/Pasted image 20260118222105.png",
     "图片/Pasted image 20260118140719.png",
-    "后端/C Sharp/ASP.NET Core/ABP/项目/增强型RBAC权限管理系统.md",
     "工具/AI工具/AI CLI.md",
     "工具/AI工具",
     "图片/Pasted image 20260114235324.png",
@@ -214,11 +220,7 @@
     "前端/Vue/Vue3/笔记/Vue3快速上手.pdf",
     "前端/React",
     "前端/未命名.canvas",
-    "图片/bb7cf808179e470c8afcf17d00f0e7c.png",
     "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System",
-    "AI/工具.md",
-    "后端/C Sharp/Project",
-    "AI/学习资料.md",
     "工具/包管理器/npm.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md",
@@ -229,8 +231,6 @@
     "前端/基础/HTML+CSS.md",
     "前端/Vue/uniapp/未命名.md",
     "后端/C Sharp/AI+.NET/1.1 调用AI接口.md",
-    "后端/C Sharp/AI+.NET/1.0 基础概念.md",
-    "后端/C Sharp/ASP.NET Core/Blazor Web App/Blazor.md",
-    "后端/C Sharp/ASP.NET Core/知名类库/Identity/1.1 实现基于角色的访问控制（RBAC）.md"
+    "后端/C Sharp/AI+.NET/1.0 基础概念.md"
   ]
 }
