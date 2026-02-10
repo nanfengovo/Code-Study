@@ -40,7 +40,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学.md",
+                        "file": "金融/Python+量化/Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学.md",
                         "mode": "source",
                         "source": false
                       },
@@ -54,7 +54,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Media Note - 2.2.1 初识量化交易-必知的量化交易基础_初识量化交易(上).md",
+                        "file": "金融/Python+量化/Media Note - 2.2.1 初识量化交易-必知的量化交易基础_初识量化交易(上).md",
                         "mode": "source",
                         "source": false
                       },
@@ -254,15 +254,17 @@
       "media-extended:Open media": false
     }
   },
-  "active": "26059d5da3b221e1",
+  "active": "27e82a86e0eba6a8",
   "lastOpenFiles": [
+    "图片/Pasted image 20260210000300.png",
     "金融/Python+量化/金融知识 & Python & 数学.md",
-    "Pasted image 20260210000300.png",
-    "Media Note - 2.2.1 初识量化交易-必知的量化交易基础_初识量化交易(上).md",
-    "Pasted image 20260209235026.png",
-    "Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学.md",
+    "图片/Pasted image 20260210084344.png",
+    "图片/Pasted image 20260210005339.png",
+    "金融/Python+量化/Media Note - 2.2.1 初识量化交易-必知的量化交易基础_初识量化交易(上).md",
+    "图片/Pasted image 20260209235026.png",
+    "金融/Python+量化/Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学.md",
     "图片/2.2.1 初识量化交易-必知的量化交易基础_初识量化交易(上)PT36.996S.png",
-    "Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学 1.md",
+    "金融/Python+量化/Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学 1.md",
     "图片/1.1.1 课程介绍与学习指南_量化交易开发课程导学PT11M37.508S.png",
     "media-lib/url-unxralba.md",
     "media-lib",
@@ -284,7 +286,6 @@
     "前端/Vue/Vue3/Project/AGV-MAP/AGV-Map.md",
     "图片/Pasted image 20260124221612.png",
     "图片/Pasted image 20260125004008.png",
-    "图片/Pasted image 20260124221615.png",
     "前端/画图/Cavnas",
     "前端/画图",
     "前端/Vue/Vue3/Project/AGV-MAP",
@@ -293,7 +294,6 @@
     "前端/Vue/Vue3/快速开发框架/Robot Admin 框架.md",
     "前端/Vue/Vue3/快速开发框架/Soybean admin 使用.md",
     "前端/Vue/Vue3/笔记/Vue3入门到精通+后台管理系统实战.md",
-    "图片/Pasted image 20260119210305.png",
     "工具/AI工具/AI CLI.md",
     "工具/AI工具",
     "工具/Git/git.md",
