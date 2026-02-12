@@ -4,78 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b5489d998d84a9ce",
-        "type": "split",
+        "id": "1e5e1d70488a6187",
+        "type": "tabs",
         "children": [
           {
-            "id": "129a20ee160f0e3d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "26059d5da3b221e1",
-                "type": "leaf",
-                "state": {
-                  "type": "mx-webpage",
-                  "state": {
-                    "source": "https://www.bilibili.com/video/BV1QnJkzqEYd?p=2"
-                  },
-                  "icon": "bilibili",
-                  "title": "10.3.3 进军量化交易开发第一课-基本的股票交易维度和概念_股票行业分类 - bilibili"
-                }
-              }
-            ]
-          },
-          {
-            "id": "1beef795fe679dd5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49f4ea69d40efff2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "金融/Python+量化/Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学"
-                }
+            "id": "26059d5da3b221e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Agent.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "594f569339bdd7b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "金融/Python+量化/Media Note - 2.2.1 初识量化交易-必知的量化交易基础_初识量化交易(上).md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Media Note - 2.2.1 初识量化交易-必知的量化交易基础_初识量化交易(上)"
-                }
-              },
-              {
-                "id": "27e82a86e0eba6a8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "金融/Python+量化/金融知识 & Python & 数学.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "金融知识 & Python & 数学"
-                }
-              }
-            ],
-            "currentTab": 2
+              "icon": "lucide-file",
+              "title": "Agent"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +187,16 @@
   },
   "active": "26059d5da3b221e1",
   "lastOpenFiles": [
+    "图片/Pasted image 20260212230925.png",
+    "AI/Agent.md",
     "金融/Python+量化/金融知识 & Python & 数学.md",
+    "AI/LLMStudy/Hello-Agents/Hello-Agents-V1.0.2-20260210.pdf",
+    "AI/LLMStudy/Hello-Agents/Hello-Agents.md",
+    "AI/LLMStudy/Hello-Agents-V1.0.2-20260210.pdf",
+    "AI/工具.md",
+    "AI/LLMStudy/Hello-Agents",
+    "AI/LLMStudy",
+    "AI/学习资料.md",
     "图片/Pasted image 20260211230457.png",
     "图片/Pasted image 20260211225930.png",
     "后端/Python/学习Python.md",
@@ -259,10 +214,7 @@
     "media-lib",
     "金融/Python+量化",
     "金融",
-    "AI/Agent.md",
     "后端/Python",
-    "AI/工具.md",
-    "AI/学习资料.md",
     "后端/C Sharp/Project/RCS.md",
     "后端/C Sharp/ASP.NET Core/ABP/项目/RBAC System/ABP_Admin +soybean-abp-admin.md",
     "后端/C Sharp/ASP.NET Core/ABP/项目/增强型RBAC权限管理系统.md",
@@ -272,21 +224,16 @@
     "未命名.canvas",
     "前端/Vue/Vue3/Project/AGV-MAP/AGV-Map.md",
     "前端/画图/Cavnas",
-    "前端/画图",
-    "前端/Vue/Vue3/Project/AGV-MAP",
-    "前端/Vue/Vue3/Project",
     "后端/C Sharp/ASP.NET Core/ABP/项目/不包含UI的API模板（纯后端）/API.md",
     "前端/Vue/Vue3/快速开发框架/Robot Admin 框架.md",
     "前端/Vue/Vue3/快速开发框架/Soybean admin 使用.md",
     "前端/Vue/Vue3/笔记/Vue3入门到精通+后台管理系统实战.md",
     "工具/AI工具/AI CLI.md",
-    "工具/AI工具",
     "工具/Git/git.md",
     "前端/未命名.canvas",
     "工具/包管理器/npm.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md",
-    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md",
-    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/异步编程.md"
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md"
   ]
 }
