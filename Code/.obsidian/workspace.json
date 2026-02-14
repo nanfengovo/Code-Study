@@ -6,6 +6,7 @@
       {
         "id": "e54663a725eb9917",
         "type": "tabs",
+        "dimension": 56.81233933161953,
         "children": [
           {
             "id": "fff12fc184113717",
@@ -16,7 +17,7 @@
                 "source": "https://www.bilibili.com/video/BV1wx411K7rb/"
               },
               "icon": "bilibili",
-              "title": "类，对象，类成员简介 - bilibili"
+              "title": "C#语言基本元素概览，初识类型、变量与方法，算法简介 - bilibili"
             }
           }
         ]
@@ -24,6 +25,7 @@
       {
         "id": "35c42e2f7472ff63",
         "type": "tabs",
+        "dimension": 43.18766066838046,
         "children": [
           {
             "id": "26059d5da3b221e1",
@@ -174,13 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "后端/C Sharp/C Shrap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C Shrap 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -203,7 +204,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "26059d5da3b221e1",
+  "active": "fff12fc184113717",
   "lastOpenFiles": [
     "后端/C Sharp/C Shrap.md",
     "AI/Agent.md",

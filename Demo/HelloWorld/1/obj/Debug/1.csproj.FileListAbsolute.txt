@@ -1,0 +1,7 @@
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\1\bin\Debug\1.exe.config
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\1\bin\Debug\1.exe
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\1\bin\Debug\1.pdb
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\1\obj\Debug\1.csproj.AssemblyReference.cache
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\1\obj\Debug\1.csproj.CoreCompileInputs.cache
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\1\obj\Debug\1.exe
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\1\obj\Debug\1.pdb
