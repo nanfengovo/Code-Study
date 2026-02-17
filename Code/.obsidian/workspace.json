@@ -17,7 +17,7 @@
                 "source": "https://www.bilibili.com/video/BV1wx411K7rb/"
               },
               "icon": "bilibili",
-              "title": "C#语言基本元素概览，初识类型、变量与方法，算法简介 - bilibili"
+              "title": "详解类型、变量与对象 _1 - bilibili"
             }
           }
         ]
@@ -207,6 +207,7 @@
   "active": "fff12fc184113717",
   "lastOpenFiles": [
     "后端/C Sharp/C Shrap.md",
+    "图片/Pasted image 20260214135102.png",
     "AI/Agent.md",
     "图片/Pasted image 20260212230925.png",
     "金融/Python+量化/金融知识 & Python & 数学.md",
@@ -229,7 +230,6 @@
     "金融/Python+量化/Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学.md",
     "图片/2.2.1 初识量化交易-必知的量化交易基础_初识量化交易(上)PT36.996S.png",
     "金融/Python+量化/Media Note - 1.1.1 课程介绍与学习指南_量化交易开发课程导学 1.md",
-    "图片/1.1.1 课程介绍与学习指南_量化交易开发课程导学PT11M37.508S.png",
     "media-lib/url-unxralba.md",
     "media-lib",
     "金融/Python+量化",
@@ -252,7 +252,6 @@
     "前端/未命名.canvas",
     "工具/包管理器/npm.md",
     "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/配置系统.md",
-    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md",
-    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/依赖注入（DI）.md"
+    "后端/C Sharp/ASP.NET Core/ASP.NET Core 基础/日志系统.md"
   ]
 }

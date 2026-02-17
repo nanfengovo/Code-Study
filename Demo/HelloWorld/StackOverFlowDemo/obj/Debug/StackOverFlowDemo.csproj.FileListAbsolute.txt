@@ -1,0 +1,7 @@
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\StackOverFlowDemo\bin\Debug\StackOverFlowDemo.exe.config
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\StackOverFlowDemo\bin\Debug\StackOverFlowDemo.exe
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\StackOverFlowDemo\bin\Debug\StackOverFlowDemo.pdb
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\StackOverFlowDemo\obj\Debug\StackOverFlowDemo.csproj.AssemblyReference.cache
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\StackOverFlowDemo\obj\Debug\StackOverFlowDemo.csproj.CoreCompileInputs.cache
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\StackOverFlowDemo\obj\Debug\StackOverFlowDemo.exe
+E:\nanfe\Documents\Notes\Code-Study\Demo\HelloWorld\StackOverFlowDemo\obj\Debug\StackOverFlowDemo.pdb
