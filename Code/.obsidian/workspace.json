@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "40ed2576aab0c7b8",
@@ -176,12 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "后端/C Sharp/C Shrap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "C Shrap 的大纲"
             }
           }
         ],
@@ -204,8 +204,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "fff12fc184113717",
+  "active": "6c62472a3e3548d8",
   "lastOpenFiles": [
+    "图片/Pasted image 20260217233319.png",
     "后端/C Sharp/C Shrap.md",
     "图片/Pasted image 20260214135102.png",
     "AI/Agent.md",

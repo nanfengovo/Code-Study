@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{8B9CB4BC-E98A-472E-BCCE-650108196B28}|StackOverFlowDemo\\StackOverFlowDemo.csproj|solutionrelative:stackoverflowdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C863109-1E13-4AA0-A0E0-1E964749FBC6}|MyExample\\MyExample.csproj|e:\\nanfe\\documents\\notes\\code-study\\demo\\helloworld\\myexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C863109-1E13-4AA0-A0E0-1E964749FBC6}|MyExample\\MyExample.csproj|E:\\nanfe\\Documents\\Notes\\Code-Study\\Demo\\HelloWorld\\myexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C863109-1E13-4AA0-A0E0-1E964749FBC6}|MyExample\\MyExample.csproj|solutionrelative:myexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1925631-59B6-46A8-93D5-C4DB8E6D61ED}|1\\1.csproj|e:\\nanfe\\documents\\notes\\code-study\\demo\\helloworld\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1925631-59B6-46A8-93D5-C4DB8E6D61ED}|1\\1.csproj|E:\\nanfe\\Documents\\Notes\\Code-Study\\Demo\\HelloWorld\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1925631-59B6-46A8-93D5-C4DB8E6D61ED}|1\\1.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,21 +33,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\nanfe\\Documents\\Notes\\Code-Study\\Demo\\HelloWorld\\StackOverFlowDemo\\Program.cs",
               "RelativeDocumentMoniker": "StackOverFlowDemo\\Program.cs",
-              "ToolTip": "E:\\nanfe\\Documents\\Notes\\Code-Study\\Demo\\HelloWorld\\StackOverFlowDemo\\Program.cs*",
-              "RelativeToolTip": "StackOverFlowDemo\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAOAAAAAAAAAA==",
+              "ToolTip": "E:\\nanfe\\Documents\\Notes\\Code-Study\\Demo\\HelloWorld\\StackOverFlowDemo\\Program.cs",
+              "RelativeToolTip": "StackOverFlowDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T07:30:15.3Z",
               "EditorCaption": ""
@@ -62,8 +58,7 @@
               "RelativeToolTip": "MyExample\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAxwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T05:13:59.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T05:13:59.546Z"
             },
             {
               "$type": "Document",
@@ -75,8 +70,7 @@
               "RelativeToolTip": "1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T03:25:48.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T03:25:48.964Z"
             },
             {
               "$type": "Document",
@@ -98,8 +92,7 @@
               "RelativeToolTip": "HelloWorld\\obj\\Debug\\net10.0\\HelloWorld.GlobalUsings.g.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T02:45:29.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T02:45:29.011Z"
             },
             {
               "$type": "Document",
@@ -111,8 +104,7 @@
               "RelativeToolTip": "HelloWorld\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-13T14:53:15.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-13T14:53:15.935Z"
             }
           ]
         }
